@@ -4,7 +4,7 @@ Task 1: Add the setup() function
 function setup() {
   // run once
   createCanvas(600, 400); // bg
-  background(100);
+  background("chartreuse");
 }
 
 function draw() {
