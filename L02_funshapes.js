@@ -24,7 +24,8 @@ rect(250,300,100,10)
 fill(255,255,255)
 circle(200,150,100,100)
 circle(400,150,100,100)
-circle
+fill(0,0,0)
+
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
