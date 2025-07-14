@@ -30,14 +30,14 @@ function draw() {
 // fill(255,150,150)
 // rect(275,300,50,75)
   // Challenge 3: A house using rect() function
-  fill(255,200,150)
-  rect(300,250,250,150)
-  fill(100,75,0)
-  rect(400,300,75,100)
-  fill(0,150,255)
-  rect(300,300,75,75)
-  fill(200,75,0)
-  triangle(450,150,300,250,550,250)
+  // fill(255,200,150)
+  // rect(300,250,250,150)
+  // fill(100,75,0)
+  // rect(400,300,75,100)
+  // fill(0,150,255)
+  // rect(300,300,75,75)
+  // fill(200,75,0)
+  // triangle(450,150,300,250,550,250)
 
   // Challenge 4: A rocketship using triangle() function
 
