@@ -26,6 +26,7 @@ circle(200,150,100,100)
 circle(400,150,100,100)
 fill(0,0,0)
 circle(190,150,75,75)
+circle()
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
