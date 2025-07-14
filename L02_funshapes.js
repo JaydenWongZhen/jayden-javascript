@@ -44,6 +44,7 @@ function draw() {
   ellipse(300,200,100,200)
   fill(200,100,0)
   triangle(300,50,250,150,350,150)
+  fill()
   circle(300,200,50)
   rect(250,300,100,50)
 
