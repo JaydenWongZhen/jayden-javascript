@@ -20,7 +20,7 @@ function draw() {
 fill(255,200,150)
 circle(300,200,250,250)
 fill(0,0,0)
-rect(300,300,100,10)
+rect(250,300,100,10)
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
