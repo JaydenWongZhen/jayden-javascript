@@ -9,6 +9,7 @@ function setup() {
 
 function draw() {
   // Challenge 1: An eye using ellipse() function
+triangle
 fill(255,255,255);
 ellipse(300,200,200,150)
 fill(0,0,0);
