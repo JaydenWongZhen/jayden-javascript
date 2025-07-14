@@ -35,7 +35,7 @@ function draw() {
   fill(100,75,0)
   rect(400,300,75,100)
   fill(0,150,255)
-  rect(100,100,75,75)
+  rect(300,100,75,75)
 
   // Challenge 4: A rocketship using triangle() function
 
