@@ -46,8 +46,8 @@ function draw() {
   triangle(300,50,250,150,350,150)
   fill(0,100,255)
   circle(300,200,50)
-  
-  rect(250,300,100,50)
+  fill(100,100,100)
+  rect(250,275,100,50)
 
   // Challenge 5: A square face using quad() function
 
