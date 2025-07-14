@@ -43,7 +43,7 @@ function draw() {
   ellipse(300,200,100,200)
   triangle(300,50,250,150,350,150)
   circle(300,200,50)
-  rect(15)
+  rect(250,)
 
   // Challenge 5: A square face using quad() function
 
