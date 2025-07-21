@@ -11,7 +11,7 @@ let posY = 150;
 let circleD = 80;
 
 //le repet
-for (let i=1; i<5; i++) {
+for (let i=1; i<9; i++) {
   //le repet
   circle(posX,posY,circleD)
   //val renew
