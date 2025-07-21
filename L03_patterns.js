@@ -15,7 +15,7 @@ for (let i=1; 1<5; i++) {
   //le repet
   circle(posX,posY,circleD)
   //val renew
-  posX = posX + circleD 
+  posX = posX + circleD + 10;
 }
   // Task 1: Colour Gradient
 
