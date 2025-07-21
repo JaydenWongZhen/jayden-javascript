@@ -11,7 +11,8 @@ let posY = 150;
 let circleD = 80;
 
 circle(50,posY,circleD);
-circle(50,posY,circleD)
+circle(50,posY,circleD);
+ci
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
