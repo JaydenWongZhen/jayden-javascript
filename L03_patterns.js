@@ -8,7 +8,7 @@ function draw() {
   // Recap 1: Repeating Circles
 let posX = 50;
 let posY = 150;
-let circleD = 80;
+let circleD = 50;
 let CB = 0;
 
 //le repet
