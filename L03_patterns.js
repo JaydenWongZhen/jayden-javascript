@@ -12,7 +12,7 @@ let circleD = 80;
 
 //le repet
 for (let i=1; i<9; i++) {
-  FileList(0)
+  fill(0)
   //le repet
   circle(posX,posY,circleD)
   //val renew
