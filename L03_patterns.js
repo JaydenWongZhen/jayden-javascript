@@ -12,7 +12,7 @@ let circleD = 50;
 let CB = 0;
 
 //le repet
-for (let i=1; i<8; i++) {
+for (let i=1; i<10; i++) {
   fill(CB,50,255);
   CB=CB+25;
   //le repet
