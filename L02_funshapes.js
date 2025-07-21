@@ -61,5 +61,5 @@ function draw() {
   fill(255,100,100)
   arc(300,200,200,200,0, PI)
   fill(0,0,0)
-  
+  circle(3)
 }
