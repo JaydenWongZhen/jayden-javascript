@@ -8,6 +8,7 @@ function draw() {
   // Recap 1: Repeating Circles
 circle(50,150,50);
 circle(125,150,50);
+circle(200,150,50)
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
