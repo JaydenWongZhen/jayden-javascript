@@ -40,14 +40,14 @@ function draw() {
   // triangle(450,150,300,250,550,250)
 
   // Challenge 4: A rocketship using triangle() function
-  fill(150,150,150)
-  ellipse(300,200,100,200)
-  fill(200,100,0)
-  triangle(300,50,250,150,350,150)
-  fill(0,100,255)
-  circle(300,200,50)
-  fill(100,100,100)
-  rect(250,275,100,50)
+  // fill(150,150,150)
+  // ellipse(300,200,100,200)
+  // fill(200,100,0)
+  // triangle(300,50,250,150,350,150)
+  // fill(0,100,255)
+  // circle(300,200,50)
+  // fill(100,100,100)
+  // rect(250,275,100,50)
 
   // Challenge 5: A square face using quad() function
 
