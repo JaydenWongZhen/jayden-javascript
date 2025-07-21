@@ -12,7 +12,7 @@ let circleD = 80;
 
 //le repet
 for (let i=1; i<9; i++) {
-  fill(0,,255);
+  fill(0,50,255);
   //le repet
   circle(posX,posY,circleD)
   //val renew
