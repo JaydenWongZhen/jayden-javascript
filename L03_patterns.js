@@ -13,6 +13,7 @@ let circleD = 80;
 //le repet
 for (let i=1; 1<5; i++) {
   //le repet
+  circle
 }
   // Task 1: Colour Gradient
 
