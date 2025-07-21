@@ -9,6 +9,8 @@ function draw() {
 let posX =0;
 let posY = 150;
 let circleD = 80;
+
+circleD(50,)
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
