@@ -11,7 +11,9 @@ let posY = 150;
 let circleD = 80;
 
 
-
+for (let i=1; 1<5; i++) {
+  
+}
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
