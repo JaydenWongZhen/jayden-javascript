@@ -8,7 +8,7 @@ function draw() {
   // Recap 1: Repeating Circles
 let posX =0;
 let posY = 150;
-
+let circleD
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
