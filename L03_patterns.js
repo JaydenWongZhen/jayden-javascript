@@ -13,7 +13,7 @@ let CB = 0;
 
 //le repet
 for (let i=1; i<6; i++) {
-  fill(CB,0,CBC);
+  fill(CB,0,255);
   CB=CB+25;
   //le repet
   circle(posX,posY,circleD)
