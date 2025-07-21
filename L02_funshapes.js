@@ -27,8 +27,8 @@ function draw() {
   fill(0,0,0)
   circle(190,150,75,75)
   circle(410,150,75,75)
-fill(255,150,150)
-rect(275,300,50,75)
+  fill(255,150,150)
+  rect(275,300,50,75)
   // Challenge 3: A house using rect() function
   // fill(255,200,150)
   // rect(300,250,250,150)
