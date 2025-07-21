@@ -62,5 +62,6 @@ function draw() {
   arc(300,200,200,200,0, PI)
   fill(0,0,0)
   circle(250,150,25)
-  circle
+  circle(350,150,25)
+  
 }
