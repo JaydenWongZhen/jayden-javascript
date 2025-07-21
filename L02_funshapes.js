@@ -18,7 +18,7 @@ function draw() {
 
   // Challenge 2: A face using circle() function
   fill(255,200,150)
-  ;noFill()
+  ;noStroke()
   circle(300,200,250,250)
   fill(0,0,0)
   rect(250,300,100,10)
