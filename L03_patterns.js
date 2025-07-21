@@ -9,6 +9,7 @@ function draw() {
 let posX = 50;
 let posY = 150;
 let circleD = 80;
+let CB
 
 //le repet
 for (let i=1; i<6; i++) {
