@@ -23,7 +23,7 @@ for (let i=1; i<10; i++) {
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
-ppppppppppppppppppppppppppppppppppppppppqrsrs
+ppppppppppppppppppppppppppppppppppppppppqrsrstttttttttttttttttttttttttttttttttttttttttttttttttttt
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
