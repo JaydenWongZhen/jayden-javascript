@@ -55,13 +55,13 @@ function draw() {
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
-  ;noStroke()
-  fill(255,255,255)
-  circle(300,200,200)
-  fill(255,100,100)
-  arc(300,200,200,200,0, PI)
-  fill(0,0,0)
-  circle(250,150,25)
-  circle(350,150,25)
-  rect(250,175,100,10)
+  // ;noStroke()
+  // fill(255,255,255)
+  // circle(300,200,200)
+  // fill(255,100,100)
+  // arc(300,200,200,200,0, PI)
+  // fill(0,0,0)
+  // circle(250,150,25)
+  // circle(350,150,25)
+  // rect(250,175,100,10)
 }
