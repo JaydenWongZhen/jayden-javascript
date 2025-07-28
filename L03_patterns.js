@@ -19,7 +19,7 @@ function draw() {
 //   circle(posX,posY,circleD)
 //   //val renew
 //   posX = posX + circleD + 2;
-//
+//  }
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
