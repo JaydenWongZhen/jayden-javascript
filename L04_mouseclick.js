@@ -15,8 +15,8 @@ for (let i=0; i<5; i++) {
 fill(coolkid);
 coolkid=coolkid+25;
 circle(posY,posX,50);
-xpos = xpos+50
-ypos = ypos+50
+xpos = xpos+50;
+ypos = ypos+50;
 }
 
 }
