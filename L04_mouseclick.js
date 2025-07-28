@@ -7,7 +7,7 @@ background(220); //gray
 
 }
 
-let shapecol ="red"
+let shapeColor ="red"
 
 function draw () {
 // let xpos = 60;
