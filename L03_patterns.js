@@ -26,7 +26,8 @@ function draw() {
 let xpos= 50;
 let ypos = 50;
 for (let i=0; i<5; i++) {
-  fill("black"):
+  fill("black");
+  React()
 }
   // Task 3: Row of Circles
 
