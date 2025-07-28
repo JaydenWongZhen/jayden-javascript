@@ -23,18 +23,20 @@ function draw() {
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
-  noStroke();
-let xpos= 50;
-let ypos = 50;
-for (let i=0; i<5; i=i+1) {
-  if (i%2==0)
-  fill("black");
-  else
-    fill("white");
-rect(xpos,ypos,50,50);
-  xpos = xpos+100;
-}
+//   noStroke();
+// let xpos= 50;
+// let ypos = 50;
+// for (let i=0; i<5; i=i+1) {
+//   if (i%2==0)
+//   fill("black");
+//   else
+//     fill("white");
+// rect(xpos,ypos,50,50);
+//   xpos = xpos+100;
+// }
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
+  noStroke();
+  rect( 0,130, width,50)
 }
