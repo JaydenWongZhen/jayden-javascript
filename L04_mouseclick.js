@@ -28,5 +28,6 @@ circle(width/2,height/2, 100);
 
 }
 function mousePressed() {
-    
+    fill("green")
 }
+function mouseReleased() {}
