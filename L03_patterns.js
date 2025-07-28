@@ -23,7 +23,8 @@ function draw() {
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
-
+let xpos= 50;
+let ypos = 50;
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
