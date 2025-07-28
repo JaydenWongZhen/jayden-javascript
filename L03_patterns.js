@@ -30,7 +30,7 @@ for (let i=0; i<5; i=i+1) {
   fill("black");
   else
     fill("white");
-  React(xpos,ypos,50,50);
+rect(xpos,ypos,50,50);
   xpos = xpos+50;
 }
   // Task 3: Row of Circles
