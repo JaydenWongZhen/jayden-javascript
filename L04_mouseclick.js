@@ -15,7 +15,7 @@ let g = 0;
 let b = 0;
 for (let i=0; i<5; i++) {
 fill(r,g,b);
-r
+g = g + 50;
 circle(posY,posX,50);
 xpos = xpos+50;
 ypos = ypos+50;
