@@ -24,5 +24,5 @@ function draw () {
 // noStroke();
 // fill(5, 100);
 // circle(mouseX,mouseY, 25);
-ci
+circle(width/2)
 }
