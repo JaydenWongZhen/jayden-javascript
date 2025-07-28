@@ -32,7 +32,7 @@ for (let i=0; i<5; i=i+1) {
   else
     fill("white");
 rect(xpos,ypos,50,50);
-  xpos = xpos+50;
+  xpos = xpos+100;
 }
   // Task 3: Row of Circles
 
