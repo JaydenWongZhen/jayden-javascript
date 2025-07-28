@@ -28,7 +28,7 @@ circle(width/2,height/2, 100);
 let shapecolor="red"
 }
 function mousePressed() {
-    shapecolor = random(255),random(255),random(255)
+    shapecolor = color(random(255),random(255),random(255));
 }
 function mouseReleased() {
     fill("red")
