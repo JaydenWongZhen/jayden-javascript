@@ -27,7 +27,8 @@ let xpos= 50;
 let ypos = 50;
 for (let i=0; i<5; i++) {
   fill("black");
-  React(xpos,ypos,50,50)
+  React(xpos,ypos,50,50);
+  xpos = xpos+50
 }
   // Task 3: Row of Circles
 
