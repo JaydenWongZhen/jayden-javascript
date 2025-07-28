@@ -28,7 +28,7 @@ let ypos = 50;
 for (let i=0; i<5; i++) {
   if (i%2==0)
   fill("black");
-else
+  elsefill
   React(xpos,ypos,50,50);
   xpos = xpos+50;
 }
