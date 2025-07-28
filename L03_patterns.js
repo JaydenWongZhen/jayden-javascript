@@ -25,7 +25,7 @@ function draw() {
   // Task 2: Colour Loop
 let xpos= 50;
 let ypos = 50;
-for (let i=0; i<5; i=1+1) {
+for (let i=0; i<5; i=i+1) {
   if (i%2==0)
   fill("black");
   else
