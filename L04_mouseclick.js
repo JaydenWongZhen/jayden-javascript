@@ -21,7 +21,7 @@ function draw () {
 // ypos = ypos+50;
 // }
 // background(220);
-
+noStroke();
 fill(5, 10);
 circle(mouseX,mouseY, 25);
 }
