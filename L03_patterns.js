@@ -25,6 +25,9 @@ function draw() {
   // Task 2: Colour Loop
 let xpos= 50;
 let ypos = 50;
+for (let i=0; i<5; i++) {
+  fi
+}
   // Task 3: Row of Circles
 
   // Task 4: Grid of Circles
