@@ -22,6 +22,6 @@ function draw () {
 // }
 // background(220);
 noStroke();
-fill(5, 10);
+fill(5, 100);
 circle(mouseX,mouseY, 25);
 }
