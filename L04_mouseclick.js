@@ -20,5 +20,5 @@ function draw () {
 // xpos = xpos+50;
 // ypos = ypos+50;
 // }
-circle(mouseX)
+circle(mouseX,mouseY, 50);
 }
