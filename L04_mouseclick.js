@@ -31,5 +31,5 @@ function mousePressed() {
     shapecol = color(random(255),random(255),random(255));
 }
 function mouseReleased() {
-    fill("red")
+    shapecol = color(random(255),random(255),random(255));
 }
