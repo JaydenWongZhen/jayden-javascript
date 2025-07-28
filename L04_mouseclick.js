@@ -7,8 +7,8 @@ background(220); //gray
 
 }
 function draw () {
-let posX = 60;
-let posY=180;
+let xpos = 60;
+let ypos=180;
 let circlebruh= 0;
 let r = 0;
 let g = 0;
