@@ -6,6 +6,9 @@ background(220); //gray
 
 
 }
+
+let shapecol ="red"
+
 function draw () {
 // let xpos = 60;
 // let ypos=180;
@@ -25,7 +28,6 @@ function draw () {
 // fill(5, 100);
 // circle(mouseX,mouseY, 25);
 circle(width/2,height/2, 100);
-let shapecol ="red"
 }
 function mousePressed() {
     shapecol = color(random(255),random(255),random(255));
