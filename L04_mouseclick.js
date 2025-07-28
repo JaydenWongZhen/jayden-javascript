@@ -13,7 +13,7 @@ let dshuugfr = 0;
 let coolkid = 0;
 for (let i=0; i<5; i++) {
 fill(coolkid);
-coolkid=coolkid+0,0,25;
+coolkid=coolkid+25;
 circle(posY,posX,50);
 xpos = xpos+50
 ypos = ypos+50
