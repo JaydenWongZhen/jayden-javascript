@@ -34,5 +34,5 @@ function mousePressed() {
     fill("blue")
 }
 function mouseReleased() {
-    shapecol = color(random(255),random(255),random(255));
+    shapeColor = color(random(255),random(255),random(255));
 }
