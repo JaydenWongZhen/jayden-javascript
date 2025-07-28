@@ -9,7 +9,7 @@ background(220); //gray
 function draw () {
 let xpos = 60;
 let ypos=180;
-let lecirlce
+let lecirlce=50;
 let r = 0;
 let g = 0;
 let b = 0;
