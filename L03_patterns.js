@@ -23,7 +23,7 @@ function draw() {
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
-  ;noStroke()
+  noStroke();
 let xpos= 50;
 let ypos = 50;
 for (let i=0; i<5; i=i+1) {
