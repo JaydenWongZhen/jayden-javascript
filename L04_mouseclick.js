@@ -25,7 +25,7 @@ function draw () {
 // fill(5, 100);
 // circle(mouseX,mouseY, 25);
 circle(width/2,height/2, 100);
-let shapecolor="red"
+let shapecol ="red"
 }
 function mousePressed() {
     shapecol = color(random(255),random(255),random(255));
