@@ -21,6 +21,6 @@ function draw () {
 // ypos = ypos+50;
 // }
 // background(220);
-fill(5, 2);
+fill(5, 25);
 circle(mouseX,mouseY, 25);
 }
