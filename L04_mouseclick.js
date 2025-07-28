@@ -10,7 +10,9 @@ function draw () {
 let posX = 60;
 let posY=180;
 let circlebruh= 0;
-let col = 0;
+let r = 0;
+let g = 0:
+
 for (let i=0; i<5; i++) {
 fill(coolkid);
 coolkid=coolkid+25;
