@@ -26,7 +26,7 @@ function draw() {
 let xpos= 50;
 let ypos = 50;
 for (let i=0; i<5; i++) {
-  fi
+  fill()
 }
   // Task 3: Row of Circles
 
