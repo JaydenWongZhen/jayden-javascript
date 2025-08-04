@@ -22,6 +22,6 @@ function keyPressed() {
         fill('green')
     }
     else if (key === 't') {
-        fill('turqois')
+        fill('cyan')
     }
 }
