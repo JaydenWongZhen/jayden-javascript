@@ -6,4 +6,6 @@ background(150);
 function draw() {
     
 }
-mouse
+function mousePressed() {
+    
+}
