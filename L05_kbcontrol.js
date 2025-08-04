@@ -31,7 +31,7 @@ function keyPressed() {
         fill('green');
     }
     else if (key === 'b') {
-        
+        fill('blue')
     }
 }
 function keyReleased() {
