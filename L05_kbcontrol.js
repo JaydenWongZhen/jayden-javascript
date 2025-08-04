@@ -8,6 +8,7 @@ function draw() {
 ;noStroke()
 let xpos=50;
 let ypos=50;
+rect(xpos,ypos)
 }
 let rectsize=10
 // function mousePressed() {
