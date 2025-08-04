@@ -20,7 +20,7 @@ function keyPressed() {
         shapeColor = color("red");
     }
     else if (key === 'y') {
-            fill('yellow')
+        shapeColor = color("red");
     }
     else if (key === 'g') {
         fill('green')
