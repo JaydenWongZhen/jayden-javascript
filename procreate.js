@@ -22,6 +22,7 @@ function keyPressed() {
         fill('green')
     }
     else if (key === 'c') {
+        fill('cyan')
         
     }
 }
