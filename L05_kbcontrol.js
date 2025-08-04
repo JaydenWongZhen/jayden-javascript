@@ -7,7 +7,7 @@ background(150);
 function draw() {
 
 }
-
+rect()
 function mousePressed() {
     fill(random(255),0,random(255));
     ;noStroke()
