@@ -8,5 +8,5 @@ function draw() {
 
 }
 function mousePressed() {
-    Filt()
+    fill(random())
 }
