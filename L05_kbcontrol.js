@@ -10,7 +10,7 @@ let xpos=50;
 let ypos=50;
 rect(xpos,ypos,rectsize,rectsize);
 }
-let rectsize=50
+
 // function mousePressed() {
 //     fill(random(255),0,random(255));
 //     ;noStroke()
