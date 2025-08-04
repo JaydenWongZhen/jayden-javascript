@@ -7,7 +7,7 @@ background(150);
 function draw() {
 
 }
-rect()
+let rectsize=10
 function mousePressed() {
     fill(random(255),0,random(255));
     ;noStroke()
