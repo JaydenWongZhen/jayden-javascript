@@ -25,6 +25,6 @@ function keyPressed() {
         fill('cyan')
     }
     else if (key === 't') {
-        
+        fill ('blue')
     }
 }
