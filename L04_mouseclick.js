@@ -39,5 +39,6 @@ function draw () {
 
 function mouseDragged() {
     FileList(0,0,0)
+    noStroke();
     circle(mouseX,mouseY,25);
 }
