@@ -20,10 +20,10 @@ function keyPressed() {
         shapeColor = color("red");
     }
     else if (key === 'y') {
-        shapeColor = color("red");
+        shapeColor = color("yellow");
     }
     else if (key === 'g') {
-        shapeColor = color("red");
+        shapeColor = color("green");
     }
     else if (key === 't') {
         shapeColor = color("red");
