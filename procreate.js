@@ -31,6 +31,9 @@ function keyPressed() {
         fill('magenta')
     }
     else if (key === 'w') {
-        fill
+        fill('white')
+    }
+    else {
+        fill('white')
     }
 }
