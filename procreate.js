@@ -6,7 +6,7 @@ background(150);
 function draw() {
     
 }
-function mousePressed() {
+function mouseDragged() {
     noStroke();
     circle(mouseX,mouseY,10)
 }
