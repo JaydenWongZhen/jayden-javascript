@@ -21,7 +21,7 @@ function keyPressed() {
     else if (key === 'g') {
         fill('green')
     }
-    else if (key === 'b') {
-        fill('blue')
+    else if (key === 't') {
+        fill('turqois')
     }
 }
