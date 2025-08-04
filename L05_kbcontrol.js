@@ -25,7 +25,7 @@ rect(xpos,ypos,rectsize,rectsize);
 function keyPressed() {
     rectsize=100;
     if (key === 'r') {
-        fill('re')
+        fill('red');
     }
 }
 function keyReleased() {
