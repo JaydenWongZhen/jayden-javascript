@@ -5,7 +5,8 @@ background(150);
 }
 
 function draw() {
-noStroke()
+;noStroke()
+
 }
 let rectsize=10
 // function mousePressed() {
