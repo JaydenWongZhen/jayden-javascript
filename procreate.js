@@ -24,7 +24,10 @@ function keyPressed() {
     else if (key === 't') {
         fill('cyan')
     }
-    else if (key === 't') {
+    else if (key === 'b') {
         fill ('blue')
+    }
+    else if (key === 'p') {
+        
     }
 }
