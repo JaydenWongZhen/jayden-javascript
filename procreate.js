@@ -8,5 +8,5 @@ function draw() {
 }
 function mouseDragged() {
     noStroke();
-    circle(mouseX,mouseY,10)
+    circle(mouseX,mouseY,20)
 }
