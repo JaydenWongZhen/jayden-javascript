@@ -17,7 +17,7 @@ function mouseDragged() {
 }
 function keyPressed() {
     if (key === 'r') {
-        fill('red')
+        shapeColor = color("red");
     }
     else if (key === 'y') {
             fill('yellow')
