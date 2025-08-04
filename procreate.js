@@ -13,6 +13,7 @@ function mouseDragged() {
 }
 function keyPressed() {
     if (key === 'y') {
+        fill('red')
         
     }
 }
