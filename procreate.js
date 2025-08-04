@@ -15,7 +15,7 @@ function keyPressed() {
     if (key === 'r') {
         fill('red')
     }
-    if (key === 'y') {
+   else if (key === 'y') {
         
     }
 }
