@@ -38,5 +38,6 @@ function draw () {
 // }
 
 function mouseDragged() {
+    FileList(0,0,0)
     circle(mouseX,mouseY,25);
 }
