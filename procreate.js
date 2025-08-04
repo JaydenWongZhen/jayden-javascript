@@ -16,6 +16,6 @@ function keyPressed() {
         fill('red')
     }
    else if (key === 'y') {
-        
+            fill('red')
     }
 }
