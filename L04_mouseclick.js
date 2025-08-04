@@ -27,8 +27,8 @@ function draw () {
 // noStroke();
 // fill(5, 100);
 // circle(mouseX,mouseY, 25);
-fill(shapeColor);
-circle(width/2,height/2, 100);
+// fill(shapeColor);
+// circle(width/2,height/2, 100);
 }
 // function mousePressed() {
 //     shapeColor = color(random(255),random(255),random(255));
@@ -38,5 +38,5 @@ circle(width/2,height/2, 100);
 // }
 
 function mouseDragged() {
-    circle
+    circle 
 }
