@@ -5,7 +5,7 @@ background(150);
 }
 
 function draw() {
-;noStroke()
+noStroke();
 let xpos=50;
 let ypos=50;
 rect(xpos,ypos,rectsize,rectsize);
