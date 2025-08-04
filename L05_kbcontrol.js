@@ -6,7 +6,8 @@ background(150);
 
 function draw() {
 ;noStroke()
-
+let xpos=50;
+let ypos=50;
 }
 let rectsize=10
 // function mousePressed() {
