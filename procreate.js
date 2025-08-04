@@ -1,4 +1,4 @@
-let shapeColor = "pink";
+let shapeColor = "black";
 
 
 function setup() {
@@ -38,6 +38,6 @@ function keyPressed() {
         shapeColor = color("white");
     }
     else {
-        shapeColor = color("red");
+        shapeColor = color("black");
     }
 }
