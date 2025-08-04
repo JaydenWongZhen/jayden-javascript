@@ -24,6 +24,9 @@ rect(xpos,ypos,rectsize,rectsize);
 
 function keyPressed() {
     rectsize=100;
+    if (key === 'r') {
+        
+    }
 }
 function keyReleased() {
     rectsize=50;
