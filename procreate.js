@@ -35,9 +35,9 @@ function keyPressed() {
         shapeColor = color("red");
     }
     else if (key === 'w') {
-        fill('white')
+        shapeColor = color("red");
     }
     else {
-        fill('white')
+        shapeColor = color("red");
     }
 }
