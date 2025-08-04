@@ -7,5 +7,6 @@ function draw() {
     
 }
 function mousePressed() {
+    noStroke();
     
 }
