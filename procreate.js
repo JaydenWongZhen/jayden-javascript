@@ -28,6 +28,6 @@ function keyPressed() {
         fill ('blue')
     }
     else if (key === 'p') {
-        
+        fill('purple')
     }
 }
