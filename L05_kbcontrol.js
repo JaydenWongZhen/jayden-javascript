@@ -8,5 +8,5 @@ function draw() {
 
 }
 function mousePressed() {
-    fill(random(0-255))
+    fill(random(255))
 }
