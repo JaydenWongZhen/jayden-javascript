@@ -30,6 +30,9 @@ function keyPressed() {
     else if (key === 'g') {
         fill('green');
     }
+    else if (key === 'b') {
+        
+    }
 }
 function keyReleased() {
     rectsize=50;
