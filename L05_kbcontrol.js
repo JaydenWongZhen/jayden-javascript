@@ -7,9 +7,10 @@ background(150);
 function draw() {
 
 }
-;noStroke()
+
 function mousePressed() {
-    fill(random(255),random(255),random(255));
+    fill(random(255),random(255),random(255))
+;
 }
 function mouseDragged() {
     circle(mouseX,mouseY,10)
