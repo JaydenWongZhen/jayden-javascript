@@ -26,13 +26,13 @@ function keyPressed() {
         shapeColor = color("red");
     }
     else if (key === 't') {
-        
+        shapeColor = color("red");
     }
     else if (key === 'b') {
-        fill ('blue')
+        shapeColor = color("red");
     }
     else if (key === 'p') {
-        fill('magenta')
+        shapeColor = color("red");
     }
     else if (key === 'w') {
         fill('white')
