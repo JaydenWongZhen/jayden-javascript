@@ -3,10 +3,9 @@ function setup() {
 createCanvas(600,400);
 background(150);
 }
-
+rectsize=
 function draw() {
 noStroke();
-let rectsize=50;
 let xpos=50;
 let ypos=50;
 rect(xpos,ypos,rectsize,rectsize);
