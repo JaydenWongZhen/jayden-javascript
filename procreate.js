@@ -23,10 +23,10 @@ function keyPressed() {
         shapeColor = color("red");
     }
     else if (key === 'g') {
-        fill('green')
+        shapeColor = color("red");
     }
     else if (key === 't') {
-        fill('cyan')
+        
     }
     else if (key === 'b') {
         fill ('blue')
