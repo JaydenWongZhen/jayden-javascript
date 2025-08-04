@@ -16,7 +16,7 @@ function keyPressed() {
         fill('red')
     }
     else if (key === 'y') {
-            fill('red')
+            fill('yellow')
     }
     else if (key === 'g') {
         fill('green')
