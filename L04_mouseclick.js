@@ -36,3 +36,5 @@ circle(width/2,height/2, 100);
 // function mouseReleased() {
 //     shapeColor = "white";
 // }
+
+function mouseDragged() {}
