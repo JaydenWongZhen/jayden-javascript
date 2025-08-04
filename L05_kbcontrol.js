@@ -17,3 +17,7 @@ let rectsize=10
 //     circle(mouseX,mouseY,circlesize);
 //     circlesize = circlesize + 0.5;
 // }
+
+function keyPressed() {
+    
+}
