@@ -7,7 +7,7 @@ function draw() {
     
 }
 function mouseDragged() {
-    fill()
+    fill(0,0,0)
     noStroke();
     circle(mouseX,mouseY,20)
 }
