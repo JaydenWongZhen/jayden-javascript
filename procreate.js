@@ -12,5 +12,7 @@ function mouseDragged() {
     circle(mouseX,mouseY,20)
 }
 function keyPressed() {
-    
+    if (key === 'y') {
+        
+    }
 }
