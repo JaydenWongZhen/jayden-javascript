@@ -23,6 +23,5 @@ function keyPressed() {
     }
     else if (key === 'c') {
         fill('cyan')
-        
     }
 }
