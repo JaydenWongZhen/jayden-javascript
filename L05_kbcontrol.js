@@ -28,7 +28,7 @@ function keyPressed() {
      fill('red');
     }
     else if (key === 'g') {
-        
+        fill('red')
     }
 }
 function keyReleased() {
