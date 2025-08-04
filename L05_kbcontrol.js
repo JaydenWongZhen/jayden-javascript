@@ -19,7 +19,7 @@ let rectsize=10
 // }
 
 function keyPressed() {
-    rectsize=100
+    rectsize=100;
 }
 function keyReleased() {
     rectsize=50;
