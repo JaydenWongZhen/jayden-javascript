@@ -9,6 +9,7 @@ function draw() {
 function mouseDragged() {
     fill(0,0,0)
     noStroke();
+    fill(shapeColor);
     circle(mouseX,mouseY,20)
 }
 function keyPressed() {
