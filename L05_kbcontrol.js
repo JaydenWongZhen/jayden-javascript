@@ -9,8 +9,8 @@ function draw() {
 }
 
 function mousePressed() {
-    fill(random(255),random(255),random(255))
-;
+    fill(random(255),random(255),random(255));
+    ;noStroke()
 }
 function mouseDragged() {
     circle(mouseX,mouseY,10)
