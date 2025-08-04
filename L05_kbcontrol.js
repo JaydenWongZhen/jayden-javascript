@@ -19,5 +19,5 @@ let rectsize=10
 // }
 
 function keyPressed() {
-    
+    rectsize=100
 }
