@@ -7,4 +7,6 @@ background(150);
 function draw() {
 
 }
-mousePressed()
+function mousePressed() {
+    
+}
