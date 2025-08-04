@@ -11,3 +11,6 @@ function mouseDragged() {
     noStroke();
     circle(mouseX,mouseY,20)
 }
+function keyPressed() {
+    
+}
