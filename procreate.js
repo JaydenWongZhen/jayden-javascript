@@ -21,4 +21,7 @@ function keyPressed() {
     else if (key === 'g') {
         fill('green')
     }
+    else if (key === 'c') {
+        
+    }
 }
