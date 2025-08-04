@@ -34,7 +34,7 @@ function keyPressed() {
         fill('blue');
     }
     else {
-        fill(whi)
+        fill('white');
     }
 }
 function keyReleased() {
