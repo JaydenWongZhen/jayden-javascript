@@ -7,6 +7,7 @@ background(150);
 function draw() {
 
 }
+:no
 function mousePressed() {
     fill(random(255),random(255),random(255));
 }
