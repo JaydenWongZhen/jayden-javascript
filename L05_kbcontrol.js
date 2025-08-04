@@ -9,7 +9,7 @@ function draw() {
 }
 
 function mousePressed() {
-    fill(random(255),random(255),random(255));
+    fill(random(255),0,random(255));
     ;noStroke()
     circlesize=5
 }
