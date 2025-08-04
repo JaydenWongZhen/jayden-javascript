@@ -33,6 +33,9 @@ function keyPressed() {
     else if (key === 'b') {
         fill('blue');
     }
+    else {
+        fill(whi)
+    }
 }
 function keyReleased() {
     rectsize=50;
