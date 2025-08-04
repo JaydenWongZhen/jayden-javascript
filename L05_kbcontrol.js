@@ -13,6 +13,6 @@ function mousePressed() {
     ;noStroke()
 }
 function mouseDragged() {
-    circle(mouseX,mouseY,circlesize)
+    circle(mouseX,mouseY,circlesize);
     circlesize = circlesize + 0.5;
 }
