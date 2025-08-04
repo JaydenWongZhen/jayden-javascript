@@ -3,7 +3,7 @@ function setup() {
 createCanvas(600,400);
 background(150);
 }
-
+rectsize=
 function draw() {
 noStroke();
 let xpos=50;
