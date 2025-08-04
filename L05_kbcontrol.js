@@ -5,5 +5,5 @@ background(150);
 }
 
 function draw() {
-    
+
 }
