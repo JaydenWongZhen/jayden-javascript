@@ -1,4 +1,4 @@
-let s
+let shapeColor = "pink";
 
 
 function setup() {
