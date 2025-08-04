@@ -13,5 +13,5 @@ function mousePressed() {
     ;noStroke()
 }
 function mouseDragged() {
-    circle(mouseX,mouseY,10)
+    circle(mouseX,mouseY,15)
 }
