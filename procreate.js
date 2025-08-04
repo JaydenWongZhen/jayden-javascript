@@ -32,10 +32,10 @@ function keyPressed() {
         shapeColor = color("blue");
     }
     else if (key === 'p') {
-        shapeColor = color("red");
+        shapeColor = color("magenta");
     }
     else if (key === 'w') {
-        shapeColor = color("red");
+        shapeColor = color("white");
     }
     else {
         shapeColor = color("red");
