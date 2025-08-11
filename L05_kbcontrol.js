@@ -22,28 +22,28 @@ function draw() {
 //     circlesize = circlesize + 0.5;
 // }
 
-function keyPressed() {
-    rectsize=100;
-    if (key === 'r') {
-     fill('red');
-     circle(width/2,height/2,100);
-    }
-    else if (key === 'g') {
-        fill('green');
-        rect(50,50,50,50);
-    }
-    else if (key === 'b') {
-        fill('blue');
-        rect(100,100,100,100);
-    }
-    else {
-        fill('white');
-        triangle(50,250,200,0,250,250)
-    }
-}
-function keyReleased() {
-    rectsize=50;
-}
+// function keyPressed() {
+//     rectsize=100;
+//     if (key === 'r') {
+//      fill('red');
+//      circle(width/2,height/2,100);
+//     }
+//     else if (key === 'g') {
+//         fill('green');
+//         rect(50,50,50,50);
+//     }
+//     else if (key === 'b') {
+//         fill('blue');
+//         rect(100,100,100,100);
+//     }
+//     else {
+//         fill('white');
+//         triangle(50,250,200,0,250,250)
+//     }
+// }
+// function keyReleased() {
+//     rectsize=50;
+// }
 
 // function keyPressed() {
 //     background(220);
