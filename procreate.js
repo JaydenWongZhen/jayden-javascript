@@ -16,8 +16,11 @@ function mouseDragged() {
     circle(mouseX,mouseY,20)
 }
 function keyPressed() {
-    
-    if (key === 'r') {
+    if (key === 't') {
+        
+    }
+
+    else if (key === 'r') {
         shapeColor = color("red");
     }
     else if (key === 'y') {
