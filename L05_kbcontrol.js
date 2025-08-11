@@ -1,5 +1,6 @@
 // write your codes here
 let xpos = 100;
+let ypos = 100;
 function setup() {
     createCanvas(600,400);
     background(150);
