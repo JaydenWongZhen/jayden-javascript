@@ -3,7 +3,7 @@ function setup() {
     createCanvas(600,400);
     background(150);
 }
-rectsize=50
+let rectsize=50
 function draw() {
     // background(220);
     // noStroke();
