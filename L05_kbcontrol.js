@@ -6,10 +6,10 @@ background(150);
 rectsize=50
 function draw() {
     // background(220);
-noStroke();
-let xpos=50;
-let ypos=50;
-rect(xpos,ypos,rectsize,rectsize);
+    // noStroke();
+    // let xpos=50;
+    // let ypos=50;
+    // rect(xpos,ypos,rectsize,rectsize);
 }
 
 // function mousePressed() {
