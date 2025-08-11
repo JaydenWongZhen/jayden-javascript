@@ -38,6 +38,7 @@ function keyPressed() {
     }
     else {
         fill('white');
+        triangle()
     }
 }
 function keyReleased() {
