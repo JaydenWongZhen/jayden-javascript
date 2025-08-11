@@ -57,5 +57,7 @@ function keyPressed() {
         fill(255,0,0);
         circle(100,100,50);
     }
-    else if (keyCode === 40);
+    else if (keyCode === 40) {
+        fill (0,0,0)
+    }
 }
