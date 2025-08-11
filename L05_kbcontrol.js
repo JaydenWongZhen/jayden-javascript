@@ -49,5 +49,5 @@ function keyPressed() {
     background(220);
     textSize(64);
     text(key,50,50);
-    text(keyCode,50,50);
+    text(keyCode,50,150);
 }
