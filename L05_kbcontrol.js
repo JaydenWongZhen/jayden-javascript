@@ -30,6 +30,7 @@ function keyPressed() {
     }
     else if (key === 'g') {
         fill('green');
+        circle()
     }
     else if (key === 'b') {
         fill('blue');
