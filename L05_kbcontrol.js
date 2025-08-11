@@ -80,7 +80,7 @@ if (keyIsDown(38)) {
 if (keyIsDown(40)) {
     ypos = ypos + 5;
 }
-ypos = constrain(ypos)
+ypos = constrain(ypos,0,height);
 fill("yellow");
 circle(xpos,ypos,50);
 }
