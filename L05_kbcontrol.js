@@ -67,6 +67,6 @@ function draw() {
 function draw() {
 background(220);
 if (keyIsDown(39)) {
-    
+    xpos = xpos
 }
 }
