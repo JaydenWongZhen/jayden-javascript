@@ -3,7 +3,8 @@
 function preload() {
 
 let SFX = loadSound("assets/pop.mp3");
-let BGM = loadSound("assets/")
+let BGM = loadSound("assets/bossaNova.mp3")
+
 
 
 
