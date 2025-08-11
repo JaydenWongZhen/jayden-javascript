@@ -76,7 +76,7 @@ if (keyIsDown(37)) {
 if (keyIsDown(38)) {
     ypos = ypos -5;
 }
-if
+if (keyIsDown)
 fill("yellow");
 circle(xpos,ypos,50);
 }
