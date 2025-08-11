@@ -54,6 +54,7 @@ function keyPressed() {
 
 function keyPressed() {
     if (keyCode === 38) {
-        fill(255,0,0)
+        fill(255,0,0);
+        
     }
 }
