@@ -17,7 +17,7 @@ function mouseDragged() {
 }
 function keyPressed() {
     if (key === 't') {
-        
+        fill
     }
 
     else if (key === 'r') {
