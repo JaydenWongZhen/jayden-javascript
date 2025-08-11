@@ -45,20 +45,20 @@ function keyReleased() {
     rectsize=50;
 }
 
-function keyPressed() {
-    background(220);
-    textSize(64);
-    text(key,50,50);
-    text(keyCode,50,150);
-}
+// function keyPressed() {
+//     background(220);
+//     textSize(64);
+//     text(key,50,50);
+//     text(keyCode,50,150);
+// }
 
-function keyPressed() {
-    if (keyCode === 38) {
-        fill(255,0,0);
-        circle(100,100,50);
-    }
-    else if (keyCode === 40) {
-        fill (0,0,0);
-        circle(100,100,50);
-    }
-}
+// function keyPressed() {
+//     if (keyCode === 38) {
+//         fill(255,0,0);
+//         circle(100,100,50);
+//     }
+//     else if (keyCode === 40) {
+//         fill (0,0,0);
+//         circle(100,100,50);
+//     }
+// }
