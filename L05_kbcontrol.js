@@ -38,7 +38,7 @@ function keyPressed() {
     }
     else {
         fill('white');
-        triangle()
+        triangle(50,250,200,0)
     }
 }
 function keyReleased() {
