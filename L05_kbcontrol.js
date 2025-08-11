@@ -73,5 +73,5 @@ if (keyIsDown(37)) {
     xpos = xpos - 5;
 }
 fill("yellow");
-circle(xpos+)
+circle(xpos,height/2,50)
 }
