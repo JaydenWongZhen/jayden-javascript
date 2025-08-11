@@ -30,7 +30,7 @@ function keyPressed() {
     }
     else if (key === 'g') {
         fill('green');
-        rect(50,50,50,50)
+        rect(50,50,50,50);
     }
     else if (key === 'b') {
         fill('blue');
