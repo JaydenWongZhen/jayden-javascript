@@ -72,4 +72,5 @@ if (keyIsDown(39)) {
 if (keyIsDown(37)) {
     xpos = xpos - 5;
 }
+fill("yellow")
 }
