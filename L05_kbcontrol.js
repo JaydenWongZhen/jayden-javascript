@@ -1,5 +1,5 @@
 // write your codes here
-let xpos
+let xpos =
 function setup() {
     createCanvas(600,400);
     background(150);
