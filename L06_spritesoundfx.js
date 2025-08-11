@@ -3,6 +3,7 @@
 function preload() {
 
 let SFX
+let BGM
 
 
 
