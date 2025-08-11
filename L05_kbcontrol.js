@@ -73,14 +73,14 @@ if (keyIsDown(39)) {
 if (keyIsDown(37)) {
     xpos = xpos - 5;
 }
-xpos = constrain(xpos,0,width)
+xpos = constrain(xpos,0,width);
 if (keyIsDown(38)) {
     ypos = ypos -5;
 }
 if (keyIsDown(40)) {
     ypos = ypos + 5;
 }
-
+ypos =
 fill("yellow");
 circle(xpos,ypos,50);
 }
