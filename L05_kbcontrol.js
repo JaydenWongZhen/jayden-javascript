@@ -73,7 +73,7 @@ if (keyIsDown(39)) {
 if (keyIsDown(37)) {
     xpos = xpos - 5;
 }
-xpos = constrain()
+xpos = constrain(xpos,0,)
 if (keyIsDown(38)) {
     ypos = ypos -5;
 }
