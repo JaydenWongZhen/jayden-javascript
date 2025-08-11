@@ -53,5 +53,7 @@ function keyPressed() {
 }
 
 function keyPressed() {
-    
+    if (keyCode === 38) {
+        
+    }
 }
