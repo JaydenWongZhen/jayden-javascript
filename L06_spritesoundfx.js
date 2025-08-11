@@ -2,10 +2,10 @@
 
 function preload() {
 
+let WSF
 
 
 
-    
 }
 function setup() {
     createCanvas(600,400);
