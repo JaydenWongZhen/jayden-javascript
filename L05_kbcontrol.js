@@ -21,7 +21,7 @@ function draw() {
 //     circle(mouseX,mouseY,circlesize);
 //     circlesize = circlesize + 0.5;
 // }
-
+noStroke();
 function keyPressed() {
     rectsize=100;
     if (key === 'r') {
