@@ -34,6 +34,7 @@ function keyPressed() {
     }
     else if (key === 'b') {
         fill('blue');
+        rect(100,100,)
     }
     else {
         fill('white');
