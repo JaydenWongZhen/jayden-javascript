@@ -70,6 +70,6 @@ if (keyIsDown(39)) {
     xpos = xpos + 5;
 }
 if (keyIsDown(37)) {
-    xpos
+    xpos = xpos - 5;
 }
 }
