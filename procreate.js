@@ -17,7 +17,7 @@ function mouseDragged() {
 }
 function keyPressed() {
     if (key === 't') {
-        circle(width/15, height)
+        circle(width/15, height/10, )
     }
 
     else if (key === 'r') {
