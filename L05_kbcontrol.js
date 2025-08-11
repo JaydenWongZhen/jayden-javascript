@@ -26,7 +26,7 @@ function keyPressed() {
     rectsize=100;
     if (key === 'r') {
      fill('red');
-     circle(width/2,height/2,100)
+     circle(width/2,height/2,100);
     }
     else if (key === 'g') {
         fill('green');
