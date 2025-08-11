@@ -26,6 +26,7 @@ function keyPressed() {
     rectsize=100;
     if (key === 'r') {
      fill('red');
+     CSSNumericValue(width)
     }
     else if (key === 'g') {
         fill('green');
