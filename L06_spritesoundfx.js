@@ -6,8 +6,6 @@ let SFX = loadSound("assets/pop.mp3");
 let BGM = loadSound("assets/bossaNova.mp3");
 let basicsprite = loadImage("assets/pico-a.png"); //this is a .png
 
-
-
 }
 function setup() {
     createCanvas(600,400);
