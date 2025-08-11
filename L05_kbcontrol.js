@@ -72,7 +72,7 @@ if (keyIsDown(39)) {
 if (keyIsDown(37)) {
     xpos = xpos - 5;
 }
-if (keyIs)
+if (keyIsDown(38))
 fill("yellow");
 circle(xpos,height/2,50);
 }
