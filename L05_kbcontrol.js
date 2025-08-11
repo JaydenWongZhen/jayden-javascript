@@ -1,4 +1,5 @@
 // write your codes here
+let xpos
 function setup() {
     createCanvas(600,400);
     background(150);
@@ -64,5 +65,5 @@ function draw() {
 // }
 
 function draw() {
-    
+
 }
