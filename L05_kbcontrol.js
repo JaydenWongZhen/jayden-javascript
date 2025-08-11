@@ -48,5 +48,6 @@ function keyReleased() {
 function keyPressed() {
     background(220);
     textSize(64);
-    text(key,50,50)
+    text(key,50,50);
+    text(ket)
 }
