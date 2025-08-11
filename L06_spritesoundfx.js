@@ -4,7 +4,7 @@ function preload() {
 
 let SFX = loadSound("assets/pop.mp3");
 let BGM = loadSound("assets/bossaNova.mp3");
-let basicsprite = loadImage("assets/pico")
+let basicsprite = loadImage("assets/pico-a.png")
 
 
 
