@@ -47,5 +47,6 @@ function keyReleased() {
 
 function keyPressed() {
     background(220);
-    text
+    textSize(64);
+    
 }
