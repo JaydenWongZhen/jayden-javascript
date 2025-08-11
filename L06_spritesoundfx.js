@@ -2,7 +2,7 @@
 
 function preload() {
 
-let SFX
+let SFX = loadSound()
 let BGM
 
 
