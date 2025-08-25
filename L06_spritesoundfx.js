@@ -8,6 +8,7 @@ function preload() {
 sfx = loadSound("assets/pop.mp3");
 BGMusic = loadSound("assets/bossaNova.mp3");
 basicsprite = loadImage("assets/pico-a.png"); //this is a .png
+craig = loadImage()
 
 }
 function setup() {
