@@ -44,5 +44,5 @@ function keyPressed() {
     }
 }
 function draw() {
-    
+    image()
 }
