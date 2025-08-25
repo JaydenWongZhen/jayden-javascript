@@ -1,5 +1,5 @@
 let shapeColor = "black";
-
+let csize = 10;
 
 function setup() {
 createCanvas(600,400);
@@ -13,7 +13,7 @@ function mouseDragged() {
     fill(0,0,0)
     noStroke();
     fill(shapeColor);
-    circle(mouseX,mouseY,20)
+    circle(mouseX,mouseY,csize)
 }
 function keyPressed () {
 
@@ -40,5 +40,19 @@ function keyPressed () {
     }
     else {
         shapeColor = color("black");
+    }
+
+    if (key === 's') {
+        csize = 5;
+    }
+    else if (key === 'm') {
+        csize = 10;
+    }
+    else if (key === 'l') {
+        csize = 20;
+    }
+
+    if (key === 'e') {
+        background(150);
     }
 }
