@@ -44,6 +44,4 @@ function keyPressed() {
         sfx.play();
     }
 }
-function draw() {
-    image(craig,300,200)
-}
+
