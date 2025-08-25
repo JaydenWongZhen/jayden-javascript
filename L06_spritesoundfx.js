@@ -23,7 +23,7 @@ function draw() {
     let w = 110;
     let h = 133; 
     image(basicsprite, x,y,w,h);
-    image(craig,)
+    image(craig, x+110,y,w,h)
     if (keyIsDown(RIGHT_ARROW)) {
         x = x+5;
     }
