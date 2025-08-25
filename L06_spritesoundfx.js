@@ -45,5 +45,5 @@ function keyPressed() {
     }
 }
 function draw() {
-    image(craig )
+    image(craig,300,200)
 }
