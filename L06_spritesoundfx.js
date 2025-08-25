@@ -43,4 +43,6 @@ function keyPressed() {
         sfx.play();
     }
 }
-
+function draw() {
+    
+}
