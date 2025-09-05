@@ -26,6 +26,6 @@ function mousePressed(){
     }
 }
 
-function mouseReleased(){
-    starwars.stop();
-}
+// function mouseReleased(){
+//     starwars.stop();
+// }
