@@ -19,7 +19,7 @@ function setup() {
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies', 'drywall'];
     console.log(favfood[2]);
 
-    for (let i = 0; i < 5; i++ ){
+    for (let i = 0; i < favfood.length; i++ ){
         // console.log(i);
         console.log(favfood[i]);
     }
