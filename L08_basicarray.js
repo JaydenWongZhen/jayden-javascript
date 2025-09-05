@@ -21,6 +21,9 @@ function mousePressed(){
     if (booleanflag) {
         starwars.play();
     }
+    else{
+        
+    }
 }
 
 function mouseReleased(){
