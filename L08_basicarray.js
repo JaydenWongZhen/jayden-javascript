@@ -22,7 +22,7 @@ function mousePressed(){
         starwars.play();
     }
     else{
-        
+        starwars.stop();
     }
 }
 
