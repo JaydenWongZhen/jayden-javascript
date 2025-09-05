@@ -13,9 +13,7 @@ function setup() {
     booleanflag = false;
     fill('white');
     textSize(35);
-    text("hi guys mi jayden", 50,50);
-    text("im 10 lololol",50,100);
-    text("im love skating and coding!!!!!", 50,150);
+    textAligh
 }
 
 function draw() {
