@@ -18,7 +18,7 @@ function setup() {
 
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
     console.log(favfood[2]);
-
+text('mi favrite food')
     for (let i = 0; i < favfood.length; i++ ){
         // console.log(i);
         // console.log(favfood[i]);
