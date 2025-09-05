@@ -24,6 +24,7 @@ function mousePressed(){
     else{
         starwars.stop();
     }
+    booleanflag
 }
 
 // function mouseReleased(){
