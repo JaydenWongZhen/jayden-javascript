@@ -13,7 +13,7 @@ function setup() {
     booleanflag = false;
     fill('white');
     textSize(35);
-    text
+    text("hi guys niggggggggga")
 }
 
 function draw() {
