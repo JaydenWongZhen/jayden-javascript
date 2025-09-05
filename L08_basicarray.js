@@ -13,7 +13,7 @@ function setup() {
     booleanflag = false;
     fill('white');
     textSize(35);
-    textAlign(CENTER,CENE)
+    textAlign(CENTER,CENTER); 
 }
 
 function draw() {
