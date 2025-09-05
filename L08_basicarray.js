@@ -4,7 +4,7 @@
 let starwars;
 
 function preload() {
-    starwars = 
+    starwars = loadSound()
 }
 function setup() {
     
