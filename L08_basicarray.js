@@ -12,7 +12,7 @@ function setup() {
     background(0);
     booleanflag = false;
     fill('white');
-    
+    texts
 }
 
 function draw() {
