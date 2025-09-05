@@ -19,7 +19,7 @@ function draw() {
 
 function mousePressed(){
     if (booleanflag) {
-        
+        starw
     }
 }
 
