@@ -15,7 +15,7 @@ function setup() {
     textSize(35);
     textAlign(CENTER,CENTER); 
 
-    favfood = []
+    favfood = ['udon noodles']
 }
 
 function draw() {
