@@ -21,7 +21,7 @@ function setup() {
 
     for (let i = 0; i < favfood.length; i++ ){
         // console.log(i);
-        console.log(favfood[i]);
+        console.log
     }
 }
 
