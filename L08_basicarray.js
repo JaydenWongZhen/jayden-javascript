@@ -11,6 +11,7 @@ function setup() {
     createCanvas(600,400);
     background(0);
     booleanflag = false;
+    
 }
 
 function draw() {
@@ -24,7 +25,7 @@ function mousePressed(){
     else{
         starwars.stop();
     }
-    
+
     booleanflag = !booleanflag;
 }
 
