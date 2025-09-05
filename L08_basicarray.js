@@ -12,7 +12,8 @@ function setup() {
     background(0);
     booleanflag = false;
     fill('white');
-    texts
+    textSize(35);
+    text
 }
 
 function draw() {
