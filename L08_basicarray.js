@@ -17,7 +17,7 @@ function setup() {
     textAlign(CENTER,CENTER); 
 
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
-    console.log(fav)
+    console.log(favfood[])
 }
 
 function draw() {
