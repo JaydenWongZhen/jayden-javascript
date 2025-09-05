@@ -22,7 +22,7 @@ function setup() {
     for (let i = 0; i < favfood.length; i++ ){
         // console.log(i);
         // console.log(favfood[i]);
-        text(favfood[i],width,100);
+        text(favfood[i],width/2,100);
     }
 }
 
