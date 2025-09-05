@@ -20,5 +20,5 @@ starwars.play();
 }
 
 function mouseReleased(){
-    
+    starwars.stop();
 }
