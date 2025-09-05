@@ -15,7 +15,7 @@ function setup() {
     textSize(35);
     text("hi guys mi jayden", 50,50);
     text("im 10 lololol",50,100);
-    text("im love skating")
+    text("im love skating and coding!!!!!")
 }
 
 function draw() {
