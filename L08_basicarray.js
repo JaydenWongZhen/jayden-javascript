@@ -18,6 +18,10 @@ function setup() {
 
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
     console.log(favfood[2]);
+
+    for (let i = 0; i < 10; i++ ){
+        
+    }
 }
 
 function draw() {
