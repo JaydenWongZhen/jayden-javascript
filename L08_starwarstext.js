@@ -2,7 +2,7 @@
 let starwars;
 
 function preload() {
-    
+    starwars = loa
 }
 function setup() {
     
