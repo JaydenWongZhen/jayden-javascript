@@ -16,7 +16,7 @@ function setup() {
     textSize(35);
     textAlign(CENTER,CENTER); 
 
-    favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
+    favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies', 'drywall'];
     console.log(favfood[2]);
 
     for (let i = 0; i < 5; i++ ){
