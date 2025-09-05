@@ -14,6 +14,7 @@ function setup() {
     fill('white');
     textSize(35);
     text("hi guys mi jayden", 50,50);
+    text("im ")
 }
 
 function draw() {
