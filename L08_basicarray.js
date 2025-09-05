@@ -14,6 +14,8 @@ function setup() {
     fill('white');
     textSize(35);
     textAlign(CENTER,CENTER); 
+
+    favfood = []
 }
 
 function draw() {
