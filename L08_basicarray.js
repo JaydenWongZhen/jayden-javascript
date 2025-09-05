@@ -3,6 +3,7 @@
 // write your codes here
 let starwars;
 let booleanflag;
+let favfood;
 
 function preload() {
     starwars = loadSound('assets/star_wars_theme_8_bit.mp3');
@@ -15,7 +16,7 @@ function setup() {
     textSize(35);
     textAlign(CENTER,CENTER); 
 
-    favfood = ['udon noodles','chicken']
+    favfood = ['udon noodles','chicken','chips']
 }
 
 function draw() {
