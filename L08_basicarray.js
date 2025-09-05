@@ -24,7 +24,7 @@ function mousePressed(){
     else{
         starwars.stop();
     }
-    booleanflag = !booleanflag
+    booleanflag = !booleanflag;
 }
 
 // function mouseReleased(){
