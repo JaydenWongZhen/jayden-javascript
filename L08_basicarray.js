@@ -13,7 +13,7 @@ function setup() {
     booleanflag = false;
     fill('white');
     textSize(35);
-    text("hi guys mi jayden", width/2,height/2);
+    text("hi guys mi jayden", 50,50);
 }
 
 function draw() {
