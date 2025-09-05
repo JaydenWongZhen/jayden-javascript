@@ -22,7 +22,6 @@ function setup() {
     for (let i = 0; i < favfood.length; i++ ){
         // console.log(i);
         // console.log(favfood[i]);
-        text('mi favrity fooods',width/2,)
         text(i+1+"." + favfood[i],width/2,100 + i * 50);
     }
 }
