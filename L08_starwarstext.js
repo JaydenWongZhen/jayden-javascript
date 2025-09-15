@@ -24,7 +24,7 @@ fill("cyan");
 textSize(32);
 textAlign(CENTER,CENTER);
 let saers = [
-    
+    "o"
 ]
 text("2lecok",0,0);
 text("secjd linn",0,45);
