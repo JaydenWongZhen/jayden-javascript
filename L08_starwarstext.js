@@ -29,6 +29,7 @@ let saers = [
     "they were PYTHONS, and JAVASCRIPTERS.",
     "Both had lived in peace, for a long time,",
     "But on the day of 2019, they had went to war.",
+    "One dau"
 
 ]
 text("2lecok",0,0);
