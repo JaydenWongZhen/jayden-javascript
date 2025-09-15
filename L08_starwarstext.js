@@ -30,7 +30,7 @@ let saers = [
     "Both had lived in peace, for a long time,",
     "But on the day of 2019, they had went to war.",
     "One day, a happy child had learned coding,",
-    "and somehow.. he had learnt both "
+    "and somehow.. he had became a MIX OF BOTH RACES."
 
 ]
 text("2lecok",0,0);
