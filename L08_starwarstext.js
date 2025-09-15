@@ -11,6 +11,6 @@ function setup() {
 
 function draw() {
     if ( keyIsDown(32)) {
-        starwars.play
+        starwars.play();
     }
 }
