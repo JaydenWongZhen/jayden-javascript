@@ -22,5 +22,6 @@ function draw() {
 translate(width/2,ypos);
 fill("cyan");
 textSize(32);
-textAlign(CENTER,CENTER)
+textAlign(CENTER,CENTER);
+tex
 }
