@@ -34,6 +34,7 @@ let saers = [
     "Will he bring PEACE? Will he fufill his lifelong DREAM? Or will he bring us to the GROUND?"
 
 ]
+let ytextpos = ypos;
 for (let i = 0; i < saers.length; i++ ) {
 text(saers[i],0,0);
 text("secjd linn",0,45);
