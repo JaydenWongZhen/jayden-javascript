@@ -21,7 +21,7 @@ let ypos = 50;
 // text('mi favrite food', width/2,50) [removed code]
     for (let i = 0; i < favfood.length; i++ ){
         // console.log(i); [removed code]
-        // console.log(favfood[i]);
+        // console.log(favfood[i]); [removed code]
         // text(i+1+"." + favfood[i],width/2,100 + i * 50);
         console.log( favfood[i]);
         text(favfood[i], 20, ypos);
