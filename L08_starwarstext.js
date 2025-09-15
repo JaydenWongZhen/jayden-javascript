@@ -34,7 +34,7 @@ let saers = [
     "Will he bring PEACE? Will he fufill his lifelong DREAM? Or will he bring us to the GROUND?"
 
 ]
-text("2lecok",0,0);
+text(saers(),0,0);
 text("secjd linn",0,45);
 ypos = ypos - 0.6;
 
