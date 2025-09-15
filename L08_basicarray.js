@@ -13,7 +13,8 @@ function setup() {
     createCanvas(400,400);
     background(200);
     fill("orange");
-    rect(width/2,height)
+    rect(width/2,height/2,200,200)
+    
 }
 
 // function setup() {
