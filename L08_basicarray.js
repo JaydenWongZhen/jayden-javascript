@@ -14,7 +14,8 @@ function setup() {
     background(200);
     fill("orange");
     rect(width/2,height/2,200,200)
-    fill(3)
+    fill(0);
+    text
 }
 
 // function setup() {
