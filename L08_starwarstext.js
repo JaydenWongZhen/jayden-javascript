@@ -11,6 +11,7 @@ function setup() {
 }
 
 function draw() {
+    background(69)
     if ( keyIsDown(32)) {
         starwars.play();
     }
