@@ -5,7 +5,6 @@ let starwars;
 let booleanflag;
 let favfood;
 let Ypos;
-let 
 
 function preload() {
     starwars = loadSound('assets/star_wars_theme_8_bit.mp3');
