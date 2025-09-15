@@ -21,7 +21,7 @@ function draw() {
 
 translate(width/2,ypos);
 fill("cyan");
-textSize(32);
+textSize(10);
 textAlign(CENTER,CENTER);
 let saers = [
     "Back then in 2003",
