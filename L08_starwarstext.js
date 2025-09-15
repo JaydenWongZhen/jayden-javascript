@@ -6,12 +6,12 @@ function preload() {
 
 function setup() {
     createCanvas(400,400);
-    background(200);
+    background(60);
     ypos = innerHeight;
 }
 
 function draw() {
-    background(69)
+    background(60);
     if ( keyIsDown(32)) {
         starwars.play();
     }
