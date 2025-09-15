@@ -31,7 +31,7 @@ let saers = [
     "But on the day of 2019, they had went to war.",
     "One day, a happy child had learned coding,",
     "and somehow.. he had became a MIX OF BOTH RACES.",
-    "Will he bring peace? Wi"
+    "Will he bring peace? Will he fufill "
 
 ]
 text("2lecok",0,0);
