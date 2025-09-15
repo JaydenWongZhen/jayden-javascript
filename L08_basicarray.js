@@ -12,7 +12,8 @@ function preload() {
 function setup() {
     createCanvas(400,400);
     background(200);
-    fill()
+    fill("orange");
+    rec
 }
 
 // function setup() {
