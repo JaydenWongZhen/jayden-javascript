@@ -1,5 +1,5 @@
 let soundsfx;
 
 function preload() {
-    soundsfx = loadSound('a')
+    soundsfx = loadSound()
 }
