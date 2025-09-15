@@ -23,5 +23,5 @@ translate(width/2,ypos);
 fill("cyan");
 textSize(32);
 textAlign(CENTER,CENTER);
-text("2lecok");
+text("2lecok",0,0);
 }
