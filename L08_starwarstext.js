@@ -14,6 +14,6 @@ function draw() {
         starwars.play();
     }
     if (keyIsDown(DOWN_ARROW)) {
-        
+        stars
     }
 }
