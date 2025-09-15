@@ -14,7 +14,7 @@ function setup() {
     booleanflag = false;
     fill('white');
     textSize(20);
-    textAlign(CENTER,CENTER); 
+    //textAlign(CENTER,CENTER); 
 let ypos = 50;
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
     console.log(favfood[2]);
