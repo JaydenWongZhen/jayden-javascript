@@ -18,9 +18,9 @@ function setup() {
 let ypos = 50;
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
     console.log(favfood[2]);
-// text('mi favrite food', width/2,50)
+// text('mi favrite food', width/2,50) [removed code]
     for (let i = 0; i < favfood.length; i++ ){
-        // console.log(i);
+        // console.log(i); [removed code]
         // console.log(favfood[i]);
         // text(i+1+"." + favfood[i],width/2,100 + i * 50);
         console.log( favfood[i]);
