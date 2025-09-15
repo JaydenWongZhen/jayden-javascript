@@ -25,7 +25,7 @@ text('mi favrite food', width/2,50)
         // text(i+1+"." + favfood[i],width/2,100 + i * 50);
         console.log( favfood[index]);
         text(favfood[index], 20, ypos);
-        ypo
+        ypos = ypos +50;
     }
 }
 
