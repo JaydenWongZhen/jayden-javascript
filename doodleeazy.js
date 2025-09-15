@@ -5,6 +5,7 @@ function setup() {
 createCanvas(600,400);
 background(150);
 textSize(10);
+text("press ")
 }
 
 function draw() {
