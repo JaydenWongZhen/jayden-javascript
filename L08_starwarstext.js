@@ -39,7 +39,7 @@ for (let i = 0; i < saers.length; i++ ) {
 text(saers[i],0,);
 text("secjd linn",0,45);
 ypos = ypos - 0.6;
-ytextpos = ypos
+ytextpos = ytextpos + 10
 }
 if (ypos < 0) {
     ypos = height;
