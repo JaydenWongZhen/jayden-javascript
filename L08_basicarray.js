@@ -14,11 +14,11 @@ function setup() {
     booleanflag = false;
     fill('white');
     textSize(20);
-    //textAlign(CENTER,CENTER); 
+    //textAlign(CENTER,CENTER);  
 let ypos = 50;
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
     console.log(favfood[2]);
-text('mi favrite food', width/2,50)
+// text('mi favrite food', width/2,50)
     for (let i = 0; i < favfood.length; i++ ){
         // console.log(i);
         // console.log(favfood[i]);
