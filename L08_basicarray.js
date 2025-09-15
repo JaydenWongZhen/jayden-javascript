@@ -15,7 +15,7 @@ function setup() {
     fill('white');
     textSize(20);
     textAlign(CENTER,CENTER); 
-
+let ypos = 50;
     favfood = ['udon noodles','chicken','chips', 'carbonara', 'chicken nuggies'];
     console.log(favfood[2]);
 text('mi favrite food', width/2,50)
