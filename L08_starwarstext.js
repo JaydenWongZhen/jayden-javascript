@@ -13,4 +13,7 @@ function draw() {
     if ( keyIsDown(32)) {
         starwars.play();
     }
+    if (keyIsDown(DOWN_ARROW)) {
+        
+    }
 }
