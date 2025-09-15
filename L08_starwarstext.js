@@ -1,2 +1,5 @@
 let soundsfx;
 
+function preload() {
+    
+}
