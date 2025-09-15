@@ -7,7 +7,7 @@ function preload() {
 function setup() {
     createCanvas(400,400);
     background(60);
-    ypos = innerHeight;
+    ypos = hei;
 }
 
 function draw() {
