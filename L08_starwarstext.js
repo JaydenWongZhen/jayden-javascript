@@ -24,7 +24,9 @@ fill("cyan");
 textSize(32);
 textAlign(CENTER,CENTER);
 let saers = [
-    "o"
+    "Back then in 2003",
+    "there was 2 RACES on the NET",
+
 ]
 text("2lecok",0,0);
 text("secjd linn",0,45);
