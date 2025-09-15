@@ -34,12 +34,12 @@ let saers = [
     "Will he bring PEACE? Will he fufill his lifelong DREAM? Or will he bring us to the GROUND?"
 
 ]
-let ytextpos = ypos;
+let ytextpos = 0;
 for (let i = 0; i < saers.length; i++ ) {
 text(saers[i],0,);
 text("secjd linn",0,45);
 ypos = ypos - 0.6;
-ytextpos = ytextpos + 10
+ytextpos = ytextpos + 10;
 }
 if (ypos < 0) {
     ypos = height;
