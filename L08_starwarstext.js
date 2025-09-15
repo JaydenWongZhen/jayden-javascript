@@ -28,7 +28,7 @@ let saers = [
     "there was 2 RACES on the NET",
     "they were PYTHONS, and JAVASCRIPTERS.",
     "Both had lived in peace, for a long time,",
-    
+    "But on the day of 201"
 
 ]
 text("2lecok",0,0);
