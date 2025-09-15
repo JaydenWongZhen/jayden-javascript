@@ -26,7 +26,7 @@ textAlign(CENTER,CENTER);
 let saers = [
     "Back then in 2003",
     "there was 2 RACES on the NET",
-    "they were PYTHON"
+    "they were PYTHONS, and JAVASCRIPTERS."
 
 ]
 text("2lecok",0,0);
