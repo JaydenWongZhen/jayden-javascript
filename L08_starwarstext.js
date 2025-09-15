@@ -19,5 +19,5 @@ function draw() {
         starwars.stop();
     }
 
-translate(width)
+translate(width/2,ypos);
 }
