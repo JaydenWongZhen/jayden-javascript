@@ -16,6 +16,7 @@ function setup() {
     rect(width/2,height/2,200,200);
     fill(0);
     textSize(32);
+    textAlign
     text("welcom", width/2,height/2);
 }
 
