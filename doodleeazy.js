@@ -5,7 +5,7 @@ function setup() {
 createCanvas(600,400);
 background(150);
 textSize(10);
-text("press r for red, y for yellow, g for green and etc etc ", w)
+text("press r for red, y for yellow, g for green and etc etc ", 10,15)
 }
 
 function draw() {
