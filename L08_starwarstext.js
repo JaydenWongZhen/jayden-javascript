@@ -23,6 +23,7 @@ translate(width/2,ypos);
 fill("cyan");
 textSize(32);
 textAlign(CENTER,CENTER);
+let saers
 text("2lecok",0,0);
 text("secjd linn",0,45);
 ypos = ypos - 0.6;
