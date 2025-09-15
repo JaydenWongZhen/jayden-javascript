@@ -37,8 +37,9 @@ let saers = [
 let ytextpos = 0;
 for (let i = 0; i < saers.length; i++ ) {
 text(saers[i],0,ytextpos);
-ytextpos = ytextpos + 10;
+ytextpos = ytextpos + 25;
 }
+ypos = ypos - 0.6;
 if (ypos < 0) {
     ypos = height;
 }
