@@ -1,1 +1,5 @@
-// write your codes here
+
+function setup() {
+    createCanvas(1000,1500);
+    background(60);
+    
