@@ -24,5 +24,5 @@ fill("cyan");
 textSize(32);
 textAlign(CENTER,CENTER);
 text("2lecok",0,0);
-ypos = ypos-0.6
+ypos = ypos-0.6;
 }
