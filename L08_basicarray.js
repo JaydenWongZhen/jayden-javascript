@@ -15,7 +15,7 @@ function setup() {
     fill("orange");
     rect(width/2,height/2,200,200)
     fill(0);
-    text
+    textSize(32)
 }
 
 // function setup() {
