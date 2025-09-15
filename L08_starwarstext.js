@@ -18,4 +18,6 @@ function draw() {
     if (keyIsDown(DOWN_ARROW)) {
         starwars.stop();
     }
+
+translate
 }
