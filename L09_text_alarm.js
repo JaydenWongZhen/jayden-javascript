@@ -12,7 +12,7 @@ function draw() {
     textAlign(CENTER,CENTER);
     text("the yoinky sploinky testing v1", xpos,height/2);
     xpos=xpos+xvel;
-    xvel=xvel*0.1618
+    xvel=xvel*1/15
   if (xpos > width) {
     xvel=xvel* -1;
   }
