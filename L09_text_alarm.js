@@ -32,7 +32,7 @@ function preload() {
 }
 
 function draw() {
-    background(255);
+    background(n);
     let hour24 = hour();
     hour24=nf(hour24,2);
     let min = minute();
