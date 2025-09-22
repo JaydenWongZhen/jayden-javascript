@@ -29,6 +29,7 @@ function setup() {
 function draw() {
     background(255);
     let hour24 = hour();
+    hour24=nf(nf,2)
     let min = minute();
     let nowsecond = second();
 textSize(32);
