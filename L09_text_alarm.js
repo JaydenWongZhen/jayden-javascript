@@ -46,3 +46,8 @@ text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,heigh
 function mousePressed() {
     homer_simpson.play();
 }
+function keyPressed() {
+    if(keyCode === 32) {
+        
+    }
+}
