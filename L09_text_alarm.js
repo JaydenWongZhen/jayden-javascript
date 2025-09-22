@@ -15,7 +15,7 @@ function draw() {
   if (xpos > width) {
     xvel=xvel* -1;
   }
-  else if (xpos < width) {
+  else if (xpos < 0) {
     xvel=xvel*-1;
   }
 }
