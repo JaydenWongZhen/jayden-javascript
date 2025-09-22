@@ -9,4 +9,5 @@ function draw() {
     textSize(25);
     textAlign(CENTER,CENTER);
     text("the yoinky sploinky testing v1", width/2,height/2);
+    xpos+xo
 }
