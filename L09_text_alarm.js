@@ -29,5 +29,5 @@ function setup() {
 function draw() {
 textSize(32);
 textAlign(CENTER,CENTER);
-text("dude its literally" + hour, width/2,height/2);
+text("dude its literally" + hour24, width/2,height/2);
 }
