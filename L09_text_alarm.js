@@ -29,8 +29,9 @@ function setup() {
 function draw() {
     background(255);
     let hour24 = hour();
-    hour24=nf(nf,2)
+    hour24=nf(nf,2);
     let min = minute();
+    min=nf()
     let nowsecond = second();
 textSize(32);
 textAlign(CENTER,CENTER);
