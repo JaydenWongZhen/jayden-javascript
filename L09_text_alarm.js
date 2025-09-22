@@ -43,7 +43,7 @@ textSize(50);
 textAlign(CENTER,CENTER);
 text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,100);
 fill("orange");
-textSize
+textSize(25);
 text("connt donn", width/2,130);
 }
 function mousePressed() {
