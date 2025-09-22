@@ -28,5 +28,6 @@ function setup() {
 
 function draw() {
 textSize(32);
-textAlign(CENTER,CENTER)
+textAlign(CENTER,CENTER);
+text
 }
