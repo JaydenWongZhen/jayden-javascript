@@ -4,7 +4,7 @@ function setup() {
     background("black");
     textSize(10);
     textAlign(CENTER,CENTER);
-    text
+    text("the yoinky sploinky testing v1",)
 }
 
 function draw() {
