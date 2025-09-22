@@ -31,5 +31,5 @@ function draw() {
     let min = minute();
 textSize(32);
 textAlign(CENTER,CENTER);
-text("dude its literally " + hour24 + ":" + min, width/2,height/2);
+text("dude its literally " + hour24 + ":" + min + "", width/2,height/2);
 }
