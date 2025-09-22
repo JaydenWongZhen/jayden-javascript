@@ -20,3 +20,12 @@
 //     xvel=xvel*-1;
 //   }
 // }
+
+function setup() {
+    createCanvas(600,400);
+    background("black");
+}
+
+function draw() {
+
+}
