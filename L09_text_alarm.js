@@ -29,5 +29,5 @@ function setup() {
 function draw() {
 textSize(32);
 textAlign(CENTER,CENTER);
-text
+text("dude ot")
 }
