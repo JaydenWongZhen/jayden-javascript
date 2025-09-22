@@ -25,7 +25,7 @@ let njdfn = "teal";
 
 function setup() {
     createCanvas(600,400);
-    background("white");
+    background(njdfn);
 }
 function preload() {
     homer_simpson = loadSound("assets/bossaNova.mp3");
