@@ -21,7 +21,7 @@
 //   }
 // }
 let homer_simpson;
-let njdfn;
+let njdfn = ""
 function setup() {
     createCanvas(600,400);
     background("white");
