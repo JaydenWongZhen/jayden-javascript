@@ -23,7 +23,7 @@
 
 function setup() {
     createCanvas(600,400);
-    background("black");
+    background("white");
 }
 
 function draw() {
