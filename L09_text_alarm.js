@@ -27,7 +27,7 @@ function setup() {
 }
 
 function draw() {
-    background(random(0-255))
+    background(255);
     let hour24 = hour();
     let min = minute();
     let nowsecond = second();
