@@ -22,7 +22,7 @@
 // }
 let homer_simpson;
 let njdfn = "teal";
-
+let cd;
 function setup() {
     createCanvas(600,400);
     background(njdfn);
