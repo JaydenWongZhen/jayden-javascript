@@ -41,7 +41,7 @@ function draw() {
     nowsecond=nf(nowsecond,2);
 textSize(32);
 textAlign(CENTER,CENTER);
-text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,height/2);
+text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,100);
 }
 function mousePressed() {
     homer_simpson.play();
