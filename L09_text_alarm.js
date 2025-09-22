@@ -13,7 +13,7 @@ function draw() {
     text("the yoinky sploinky testing v1", xpos,height/2);
     xpos=xpos+xvel;
     // xvel=xvel*1.01; //experimental code
-  if (xpos > width) {
+  if (xpos > width-200) {
     xvel=xvel* -1;
   }
   else if (xpos < 0) {
