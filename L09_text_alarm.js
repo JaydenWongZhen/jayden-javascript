@@ -26,7 +26,7 @@ function setup() {
     background("white");
 }
 function preload() {
-    home4r_simpson = loadSound("assets/bossaNova.mp3");
+    homer_simpson = loadSound("assets/bossaNova.mp3");
 }
 
 function draw() {
