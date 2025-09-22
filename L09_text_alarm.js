@@ -2,8 +2,8 @@
 function setup() {
     createCanvas(600,400);
     background("black");
-    textSize(10)
-    textAlign(CENTER,CEN)
+    textSize(10);
+    textAlign(CENTER,CENTER)
 }
 
 function draw() {
