@@ -33,7 +33,7 @@ function draw() {
     let min = minute();
     min=nf(min,2);
     let nowsecond = second();
-    min=nf(m)
+    nowsecond=nf(nowsecond)
 textSize(32);
 textAlign(CENTER,CENTER);
 text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,height/2);
