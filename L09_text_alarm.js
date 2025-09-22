@@ -29,7 +29,8 @@ function setup() {
 function draw() {
     let hour24 = hour();
     let min = minute();
+    let second = second();
 textSize(32);
 textAlign(CENTER,CENTER);
-text("dude its literally " + hour24 + ":" + min + "", width/2,height/2);
+text("dude its literally " + hour24 + ":" + min + ":" + second, width/2,height/2);
 }
