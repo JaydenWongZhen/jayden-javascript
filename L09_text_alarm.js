@@ -29,7 +29,7 @@ function setup() {
 function draw() {
     background(255);
     let hour24 = hour();
-    hour24=nf(hour24,2);
+    hour24=nf(hour24,67);
     let min = minute();
     min=nf(min,2);
     let nowsecond = second();
