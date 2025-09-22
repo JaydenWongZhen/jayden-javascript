@@ -26,7 +26,7 @@ function setup() {
     background("white");
 }
 function preload() {
-    
+    sdddd=loadSound("assets/bossaNova.mp3");
 }
 
 function draw() {
