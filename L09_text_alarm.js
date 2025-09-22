@@ -1,5 +1,5 @@
 let xpos;
-let xvel;
+let xvel = 1;
 function setup() {
     createCanvas(600,400);
     background(200);
