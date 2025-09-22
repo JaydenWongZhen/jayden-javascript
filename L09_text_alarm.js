@@ -20,7 +20,7 @@
 //     xvel=xvel*-1;
 //   }
 // }
-
+let homer_di
 function setup() {
     createCanvas(600,400);
     background("white");
