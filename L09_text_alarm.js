@@ -2,7 +2,7 @@
 function setup() {
     createCanvas(600,400);
     background("black");
-    textSi
+    textSize(10)
 }
 
 function draw() {
