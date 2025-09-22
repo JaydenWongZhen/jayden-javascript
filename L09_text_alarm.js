@@ -10,10 +10,10 @@ function draw() {
      background(200);
     textSize(25);
     textAlign(CENTER,CENTER);
-    text("the yoinky sploinky testing v1", xpos,height/2);
+    text("the yoinky sploinky", xpos,height/2);
     xpos=xpos+xvel;
     // xvel=xvel*1.01; //experimental code
-  if (xpos > width-200) {
+  if (xpos > width-150) {
     xvel=xvel* -1;
   }
   else if (xpos < 200) {
