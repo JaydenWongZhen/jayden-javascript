@@ -27,5 +27,6 @@ function setup() {
 }
 
 function draw() {
+textSize(32);
 
 }
