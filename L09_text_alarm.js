@@ -40,4 +40,5 @@ function draw() {
 textSize(32);
 textAlign(CENTER,CENTER);
 text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,height/2);
+
 }
