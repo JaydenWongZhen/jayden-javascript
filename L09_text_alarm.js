@@ -67,9 +67,9 @@ text("start time by clik me", width/2,250);
 // let pi= 3.141592653589793238;
 // console.log(nf(pi,1,3));
 }
-// function mousePressed() {
+function mousePressed() {
 //     homer_simpson.play();
-// }
+}
 function keyPressed() {
     if(keyCode === 32) {
         njdfn = color(random(255),random(255),random(255));
