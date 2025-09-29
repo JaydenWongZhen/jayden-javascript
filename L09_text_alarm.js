@@ -45,7 +45,7 @@ text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,100);
 fill("orange");
 textSize(30);
 text("connt donn", width/2,130);
-text("testing",width/2,150)
+text("0",width/2,150)
 }
 function mousePressed() {
     homer_simpson.play();
