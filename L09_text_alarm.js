@@ -47,6 +47,7 @@ function countdown() {
         clearInterval(objectID);
     }
 }
+
 function draw() {
     background(njdfn);
     let hour24 = hour();
