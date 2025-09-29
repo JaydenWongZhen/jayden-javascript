@@ -50,7 +50,7 @@ function countdown() {
     }
 }
 function changeColor() {
-
+njdfn
 }
 
 function draw() {
