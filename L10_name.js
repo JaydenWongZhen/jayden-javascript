@@ -5,7 +5,7 @@ function setup() {
     createCanvas(600,400);
     background(bgrd);
     cp=createColorPicker();
-    cp.position(wod)
+    cp.position(width/2,height/2)
 }
 
 function draw() {
