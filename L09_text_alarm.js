@@ -26,6 +26,7 @@ let cd=10;
 let objectID;
 let homer_simpson;
 let njdfn = "teal";
+let ccccco
 function setup() {
     createCanvas(600,400);
     background(njdfn);
