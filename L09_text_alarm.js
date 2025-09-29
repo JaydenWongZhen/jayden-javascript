@@ -46,10 +46,12 @@ function countdown() {
     if (cd === 0)  {
         homer_simpson.play();
         clearInterval(objectID);
-        cololor = setInterval(changecolor,500);
+        cololor = setInterval(changeColor,500);
     }
 }
-
+function changeColor() {
+    
+}
 
 function draw() {
     background(njdfn);
