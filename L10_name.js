@@ -6,10 +6,11 @@ function setup() {
     background(bgrd);
     cp=createColorPicker();
     cp.position(width/2,height/2);
-    
+
 }
 
 function draw() {
+    background( colorPicker)
 fill("white");
 rect(100,50,400,100,10)
 }
