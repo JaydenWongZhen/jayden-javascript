@@ -4,6 +4,7 @@ let cp;
 function setup() {
     createCanvas(600,400);
     background(bgrd);
+    cp=c
 }
 
 function draw() {
