@@ -1,8 +1,8 @@
 // write your codes here
-let bgrd = "purple"
+let bgrd = "purple";
 function setup() {
     createCanvas(600,400);
-    background("black");
+    background(bgrd);
 }
 
 function draw() {
