@@ -49,6 +49,7 @@ function countdown() {
         cololor = setInterval(changeColor,500);
     }
 }
+let cc=0;
 function changeColor() {
 njdfn = color(random(255),random(255),random(255));
 }
