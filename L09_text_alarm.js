@@ -52,7 +52,9 @@ function countdown() {
 let cc=0;
 function changeColor() {
     cc++;
-    if (cc <10){}
+    if (cc <10){
+        clearInterval(sec)
+    }
 njdfn = color(random(255),random(255),random(255));
 }
 
