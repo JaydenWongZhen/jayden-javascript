@@ -69,7 +69,7 @@ text("start time by clik me", width/2,250);
 }
 function mousePressed() {
 //     homer_simpson.play();
-// objectID = setInterval(countdown, 1000); // note: 1 is 1 milisec
+objectID = setInterval(countdown, 1000); // note: 1 is 1 milisec
 }
 function keyPressed() {
     if(keyCode === 32) {
