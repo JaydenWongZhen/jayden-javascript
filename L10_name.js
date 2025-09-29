@@ -1,5 +1,5 @@
 // write your codes here
-let 
+let bg
 function setup() {
     createCanvas(600,400);
     background("black");
