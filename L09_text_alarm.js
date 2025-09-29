@@ -36,7 +36,7 @@ function setup() {
 function countdown() {
     cd--;
     cd = constrain(cd,0,10);
-    if (counter === 0)  {
+    if (cd === 0)  {
         homer_simpson.play();
         clearInterval(objectID);
     }
