@@ -35,6 +35,7 @@ function setup() {
 }
 function countdown() {
     cd--;
+    counter
 }
 function preload() {
     homer_simpson = loadSound("assets/bossaNova.mp3");
