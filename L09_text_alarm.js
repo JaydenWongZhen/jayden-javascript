@@ -33,6 +33,12 @@ function setup() {
     objectID = setInterval(countdown, 1000); // note: 1 is 1 milisec
 
 }
+
+    
+
+function preload() {
+    homer_simpson = loadSound("assets/bossaNova.mp3");
+}
 function countdown() {
     cd--;
     cd = constrain(cd,0,10);
@@ -40,12 +46,7 @@ function countdown() {
         homer_simpson.play();
         clearInterval(objectID);
     }
-    
 }
-function preload() {
-    homer_simpson = loadSound("assets/bossaNova.mp3");
-}
-
 function draw() {
     background(njdfn);
     let hour24 = hour();
