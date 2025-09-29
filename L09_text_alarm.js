@@ -45,7 +45,7 @@ function countdown() {
     if (cd === 0)  {
         homer_simpson.play();
         clearInterval(objectID);
-        background(random(255),random(255))
+        background(random(255),random(255),random(255));
     }
 }
 
