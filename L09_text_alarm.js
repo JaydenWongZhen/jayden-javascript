@@ -30,7 +30,7 @@ function setup() {
     createCanvas(600,400);
     background(njdfn);
 
-    objectID = setInterval(countdown, 1000); // note: 1 is 1 milisec
+    
 
 }
 
@@ -69,6 +69,7 @@ text("start time by clik me", width/2,250);
 }
 function mousePressed() {
 //     homer_simpson.play();
+// objectID = setInterval(countdown, 1000); // note: 1 is 1 milisec
 }
 function keyPressed() {
     if(keyCode === 32) {
