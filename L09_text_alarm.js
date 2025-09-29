@@ -50,7 +50,7 @@ function countdown() {
     }
 }
 function changeColor() {
-njdfn = color(random(255),)
+njdfn = color(random(255),random(255),r)
 }
 
 function draw() {
