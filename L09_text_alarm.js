@@ -48,7 +48,7 @@ text("connt donn", width/2,130);
 text("0",width/2,175);
 text("start time by clik me", width/2,250);
 let pi= 3.141592653589793238;
-console.log(nf)
+console.log(nf())
 }
 function mousePressed() {
     homer_simpson.play();
