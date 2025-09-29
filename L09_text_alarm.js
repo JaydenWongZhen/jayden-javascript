@@ -51,7 +51,7 @@ function countdown() {
 }
 let cc=0;
 function changeColor() {
-    colorChan
+    cc++
 njdfn = color(random(255),random(255),random(255));
 }
 
