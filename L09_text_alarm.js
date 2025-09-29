@@ -22,13 +22,19 @@
 //   }
 // }
 
-
+let cd=10;
+let objectID;
 let homer_simpson;
 let njdfn = "teal";
-let cd;
 function setup() {
     createCanvas(600,400);
     background(njdfn);
+
+    objectID = setInterval(countdown, 1000); // note: 1 is 1 milisec
+
+}
+function countdown() {
+    cd--;
 }
 function preload() {
     homer_simpson = loadSound("assets/bossaNova.mp3");
@@ -48,7 +54,7 @@ text("dude its literally " + hour24 + ":" + min + ":" + nowsecond, width/2,100);
 fill("orange");
 textSize(30);
 text("connt donn", width/2,130);
-text("0",width/2,175);
+text(cd,width/2,175);
 text("start time by clik me", width/2,250);
 // let pi= 3.141592653589793238;
 // console.log(nf(pi,1,3));
