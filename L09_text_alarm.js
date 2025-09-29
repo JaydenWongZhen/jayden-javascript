@@ -53,7 +53,7 @@ let cc=0;
 function changeColor() {
     cc++;
     if (cc <10){
-        clearInterval(sec)
+        clearInterval(cololor);
     }
 njdfn = color(random(255),random(255),random(255));
 }
