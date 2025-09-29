@@ -27,7 +27,6 @@ let objectID;
 let homer_simpson;
 let njdfn = "teal";
 let cololor;
-let bg;
 function setup() {
     createCanvas(600,400);
     background(njdfn);
