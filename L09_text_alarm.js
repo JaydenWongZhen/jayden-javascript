@@ -35,7 +35,7 @@ function setup() {
 }
 function countdown() {
     cd--;
-    counter
+    counter = constrain(count)
 }
 function preload() {
     homer_simpson = loadSound("assets/bossaNova.mp3");
