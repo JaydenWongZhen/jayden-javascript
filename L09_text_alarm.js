@@ -76,8 +76,8 @@ function mousePressed() {
 //     homer_simpson.play();
 objectID = setInterval(countdown, 1000); // note: 1 is 1 milisec
 }
-function keyPressed() {
-    if(keyCode === 32) {
-        njdfn = color(random(255),random(255),random(255));
-    }
-}
+// function keyPressed() {
+//     if(keyCode === 32) {
+//         njdfn = color(random(255),random(255),random(255));
+//     }
+// }
