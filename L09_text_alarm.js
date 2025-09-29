@@ -50,6 +50,7 @@ function countdown() {
     }
 }
 
+
 function draw() {
     background(njdfn);
     let hour24 = hour();
