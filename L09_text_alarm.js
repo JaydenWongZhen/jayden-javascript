@@ -20,6 +20,8 @@
 //     xvel=xvel*-1;
 //   }
 // }
+
+
 let homer_simpson;
 let njdfn = "teal";
 let cd;
