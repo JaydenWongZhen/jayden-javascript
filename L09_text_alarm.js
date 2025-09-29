@@ -46,7 +46,7 @@ fill("orange");
 textSize(30);
 text("connt donn", width/2,130);
 text("0",width/2,150);
-text("start time by clik me", width/2,200)
+text("start time by clik me", width/2,200);
 }
 function mousePressed() {
     homer_simpson.play();
