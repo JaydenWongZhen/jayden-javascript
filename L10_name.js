@@ -33,7 +33,7 @@ function updateAge() {
     age = userInputnumber2.value();
 }
 function updateDob() {
-    dob
+    dob = userInput3.value();
 }
 function draw() {
     background( cp.value());
