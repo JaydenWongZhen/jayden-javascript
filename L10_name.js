@@ -3,7 +3,7 @@ let bgrd = "purple";
 let cp;
 let username = "larry";
 let userInput;
-let raig
+let age = "67"
 function setup() {
     createCanvas(600,400);
     background(bgrd);
