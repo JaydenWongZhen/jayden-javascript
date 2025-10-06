@@ -44,6 +44,7 @@ textSize(30);
 textAlign(LEFT,CENTER);
 text(username,150,75);
 text(age,150,125);
+text(dob)
 textAlign(RIGHT,CENTER);
 textSize(20);
 text("change color here", width/2,height/2 + 10);
