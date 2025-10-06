@@ -1,6 +1,7 @@
 // write your codes here
 let bgrd = "purple";
 let cp;
+let
 function setup() {
     createCanvas(600,400);
     background(bgrd);
