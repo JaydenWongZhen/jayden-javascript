@@ -10,7 +10,7 @@ function setup() {
     cp.position(width/2,height/2);
 
     userInput = createInput(username);
-    userInput.position(width/2,height/2+70);
+    userInput.position(width/2,height/2+60);
     userInput.input(updateName);
 
 }
