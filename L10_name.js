@@ -26,5 +26,5 @@ textSize(30);
 textAlign(LEFT,CENTER);
 text(username,150,100);
 textAlign(RIGHT,CENTER);
-
+textSize
 }
