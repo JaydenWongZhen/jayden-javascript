@@ -10,7 +10,7 @@ function setup() {
     cp.position(width/2,350);
 
     userInput = createInput(username);
-    userinput.position
+    userinput.position(width/2,height)
 }
 
 function draw() {
