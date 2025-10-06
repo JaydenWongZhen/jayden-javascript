@@ -22,7 +22,7 @@ function setup() {
 }
 function updateName() {
     username = userInput.value();
-    age = user
+    age = userInputnumber2.value();
 }
 function draw() {
     background( cp.value());
