@@ -32,7 +32,9 @@ function updateName() {
 function updateAge() {
     age = userInputnumber2.value();
 }
-function updateDob() 
+function updateDob() {
+    dob
+}
 function draw() {
     background( cp.value());
 fill("white");
