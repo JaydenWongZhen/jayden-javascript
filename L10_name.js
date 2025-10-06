@@ -21,6 +21,8 @@ function setup() {
     userInputnumber2 = createInput(age);
     userInputnumber2.position(width/2,height/2 + 100);
     userInputnumber2.input(updateAge);
+
+    userInput3
 }
 function updateName() {
     username = userInput.value();
