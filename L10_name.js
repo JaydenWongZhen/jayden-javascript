@@ -12,7 +12,7 @@ function setup() {
     createCanvas(600,400);
     background(bgrd);
     cp=createColorPicker(bgrd);
-    cp.position(width/2,height/2);
+    cp.position(width/2,height/2+25);
 
     userInput = createInput(username);
     userInput.position(width/2,height/2+60);
