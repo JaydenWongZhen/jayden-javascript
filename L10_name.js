@@ -3,6 +3,7 @@ let bgrd = "purple";
 let cp;
 let username = "larry";
 let userInput;
+let raig
 function setup() {
     createCanvas(600,400);
     background(bgrd);
