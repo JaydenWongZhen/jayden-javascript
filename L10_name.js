@@ -16,6 +16,8 @@ function setup() {
     userInput.position(width/2,height/2+60);
     userInput.input(updateName);
 
+    userInput
+
 }
 function updateName() {
     username = userInput.value();
