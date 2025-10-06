@@ -38,7 +38,7 @@ function updateDob() {
 function draw() {
     background( cp.value());
 fill("white");
-rect(100,50,400,125,10);
+rect(100,50,400,150,10);
 fill("black");
 textSize(30);
 textAlign(LEFT,CENTER);
