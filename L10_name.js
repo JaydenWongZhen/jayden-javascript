@@ -34,8 +34,8 @@ textAlign(LEFT,CENTER);
 text(username,150,100);
 text(age,150,150)
 textAlign(RIGHT,CENTER);
-textSize(15);
+textSize(20);
 text("change color here", width/2,height/2 + 10);
 text("enter username",width/2,height/2+75);
-text("enterfart")
+text("enter age", width/2,height/2 + 115)
 }
