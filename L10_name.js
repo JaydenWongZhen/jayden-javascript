@@ -28,5 +28,5 @@ text(username,150,100);
 textAlign(RIGHT,CENTER);
 textSize(18);
 text("change color here", width/2,height/2 + 10);
-text("enter username",width/2,height/2)
+text("enter username",width/2,height/2+72)
 }
