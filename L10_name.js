@@ -4,7 +4,7 @@ let cp;
 function setup() {
     createCanvas(600,400);
     background(bgrd);
-    cp=createColorPicker();
+    cp=createColorPicker(bgrd);
     cp.position(width/2,350);
 
 }
