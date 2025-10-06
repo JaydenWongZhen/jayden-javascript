@@ -23,7 +23,7 @@ function setup() {
     userInputnumber2.input(updateAge);
 
     userInput3 = createInput(dob,"date");
-    user
+    userInput3.position(width)
 }
 function updateName() {
     username = userInput.value();
