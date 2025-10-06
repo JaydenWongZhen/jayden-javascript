@@ -17,7 +17,7 @@ function setup() {
     userInput.input(updateName);
 
     userInputnumber2 = createInput(age);
-    userInputnumber2 = c
+    userInputnumber2.position
 
 }
 function updateName() {
