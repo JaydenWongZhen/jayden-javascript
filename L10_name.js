@@ -23,6 +23,6 @@ fill("white");
 rect(100,50,400,100,10);
 fill("black");
 textSize(30);
-textAlign(CENTER,CENTER);
+textAlign(LEFT,CENTER);
 text(username,150,100);
 }
