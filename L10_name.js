@@ -9,7 +9,7 @@ function setup() {
     cp=createColorPicker(bgrd);
     cp.position(width/2,350);
 
-    userInpi
+    userInput = creat
 }
 
 function draw() {
