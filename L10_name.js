@@ -22,6 +22,7 @@ function setup() {
 }
 function updateName() {
     username = userInput.value();
+    user
 }
 function draw() {
     background( cp.value());
