@@ -1,7 +1,7 @@
 // write your codes here
 let bgrd = "purple";
 let cp;
-let username = "fuckssake";
+let username = "ronald";
 let userInput;
 function setup() {
     createCanvas(600,400);
