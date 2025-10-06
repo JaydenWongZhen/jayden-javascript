@@ -17,6 +17,7 @@ function draw() {
     background( cp.value());
 fill("white");
 rect(100,50,400,100,10);
-fill("black")
+fill("black");
+textSize(30);
 text(username,150,100);
 }
