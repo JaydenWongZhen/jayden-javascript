@@ -24,7 +24,7 @@ function setup() {
 
     userInput3 = createInput(dob,"date");
     userInput3.position(width/2,height/2 + 150)
-    userInput3.input(updateDob)
+    userInput3.input(updateDob);
 }
 function updateName() {
     username = userInput.value();
@@ -32,6 +32,7 @@ function updateName() {
 function updateAge() {
     age = userInputnumber2.value();
 }
+function updateDob() 
 function draw() {
     background( cp.value());
 fill("white");
