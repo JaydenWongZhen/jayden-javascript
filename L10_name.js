@@ -24,7 +24,7 @@ function setup() {
 
     userInput3 = createInput(dob,"date");
     userInput3.position(width/2,height/2 + 150)
-    userInput3.inp
+    userInput3.input(updateDob)
 }
 function updateName() {
     username = userInput.value();
