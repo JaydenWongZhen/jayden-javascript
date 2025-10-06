@@ -50,4 +50,5 @@ textSize(20);
 text("change color here", width/2,height/2 + 10);
 text("enter username",width/2,height/2+75);
 text("enter age", width/2,height/2 + 115);
+text("enter rai")
 }
