@@ -14,7 +14,9 @@ function setup() {
     userInput.input(updateName);
 
 }
-
+function updateName() {
+    
+}
 function draw() {
     background( cp.value());
 fill("white");
