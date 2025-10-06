@@ -17,4 +17,5 @@ function draw() {
     background( cp.value());
 fill("white");
 rect(100,50,400,100,10)
+text("")
 }
