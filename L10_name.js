@@ -18,10 +18,13 @@ function setup() {
 
     userInputnumber2 = createInput(age);
     userInputnumber2.position(width/2,height/2 + 100);
-    userInputnumber2.input(updateAge)
+    userInputnumber2.input(updateAge);
 }
 function updateName() {
     username = userInput.value();
+}
+function updateAge() {
+    
 }
 function draw() {
     background( cp.value());
