@@ -37,7 +37,7 @@ function updateDob() {
 }
 function draw() {
     background( cp.value());
-    s
+    strokeWeight(5);
     stroke("blue");
 fill("white");
 rect(100,50,400,150,10);
