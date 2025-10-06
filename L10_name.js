@@ -5,6 +5,7 @@ let username = "larry";
 let userInput;
 let age = "67,000,000,000,000"
 let userInputnumber2;
+let dob
 
 function setup() {
     createCanvas(600,400);
