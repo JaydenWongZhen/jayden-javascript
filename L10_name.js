@@ -11,7 +11,8 @@ function setup() {
 
     userInput = createInput(username);
     userInput.position(width/2,height/2 + 100);
-    userInput.input(updateName)
+    userInput.input(updateName);
+
 }
 
 function draw() {
