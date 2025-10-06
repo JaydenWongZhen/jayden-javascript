@@ -31,7 +31,7 @@ rect(100,50,400,100,10);
 fill("black");
 textSize(30);
 textAlign(LEFT,CENTER);
-text(username,150,100);
+text(username,150,75);
 text(age,150,150)
 textAlign(RIGHT,CENTER);
 textSize(20);
