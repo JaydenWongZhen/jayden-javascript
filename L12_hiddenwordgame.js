@@ -7,7 +7,8 @@ function setup() {
     background(0,150,255);
 ghfgngbyetagain = createInput("subscribe");
 ghfgngbyetagain.position(100,100);
-lebuton = createButton("guest666")
+lebuton = createButton("guess")
+lebt
 
 }
 function draw() {
