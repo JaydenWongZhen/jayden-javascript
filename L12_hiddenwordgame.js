@@ -6,7 +6,7 @@ function setup() {
     createCanvas(600,600);
     background(0,150,255);
 ghfgngbyetagain = createInput("subscribe");
-ghfgngbyetagain.position(100,100);
+ghfgngbyetagain.position(100,300);
 lebuton = createButton("guess")
 lebuton.position(300,100);
 lebuton.size(50,50)
