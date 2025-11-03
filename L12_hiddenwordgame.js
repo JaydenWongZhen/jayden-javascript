@@ -17,7 +17,7 @@ lebuton.size(50,50)
 lebuton.style("background-color","blue");
 lebuton.mousePressed(checkGuess);
 selected = random(todayswordle); 
-selected = selected.toUppercase();
+selected = selected.toUpperCase();
 generateHints();
 
 function generateHints() {
