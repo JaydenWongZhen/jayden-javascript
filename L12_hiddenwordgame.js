@@ -1,4 +1,5 @@
 // write your codes here
+
 let todayswordle = ["ligma","balls","sigma"]
 function setup() {
     createCanvas(600,600);
