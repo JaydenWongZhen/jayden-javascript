@@ -14,7 +14,7 @@ lebuton.style("background-color","blue");
 lebuton.mousePressed(checkGuess);
 
 function checkGuess() {
-    message = "you are right, it is sigma!"
+ message = "you are right, it is sigma!"
 }
 
 }
