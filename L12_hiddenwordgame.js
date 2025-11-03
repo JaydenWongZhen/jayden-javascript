@@ -20,7 +20,8 @@ selected = random(todayswordle);
 selected = selected.toUppercase();
 generateHints();
 
-function generateHints();
+function generateHints() {
+}
 hints = selected[0]
 
 function checkGuess() {
