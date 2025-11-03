@@ -9,6 +9,7 @@ ghfgngbyetagain = createInput("subscribe");
 ghfgngbyetagain.position(100,100);
 lebuton = createButton("guess")
 lebuton.position(100,100);
+lebuton.size(50,50)
 
 }
 function draw() {
