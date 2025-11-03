@@ -8,7 +8,7 @@ function setup() {
 ghfgngbyetagain = createInput("subscribe");
 ghfgngbyetagain.position(100,300);
 lebuton = createButton("guess")
-lebuton.position(300,100);
+lebuton.position(300,300);
 lebuton.size(50,50)
 lebuton.style("background-color","blue");
 
