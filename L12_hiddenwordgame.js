@@ -1,5 +1,5 @@
 // write your codes here
-let gh
+let ghfgngbyetagain;
 let todayswordle = ["ligma","balls","sigma"]
 function setup() {
     createCanvas(600,600);
