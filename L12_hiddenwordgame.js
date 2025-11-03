@@ -16,7 +16,7 @@ lebuton.position(300,300);
 lebuton.size(50,50)
 lebuton.style("background-color","blue");
 lebuton.mousePressed(checkGuess);
-selected = random(hiddenwords); 
+selected = random(todayswordle); 
 selected = selected
 
 function checkGuess() {
