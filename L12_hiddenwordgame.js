@@ -3,6 +3,7 @@ let message;
 let lebuton;
 let ghfgngbyetagain;
 let selected;
+let hints;
 
 let todayswordle = ["ligma","balls","sigma"]
 function setup() {
