@@ -10,10 +10,12 @@ ghfgngbyetagain.position(100,100);
 lebuton = createButton("guess")
 lebuton.position(300,100);
 lebuton.size(50,50)
+letbuton.style("color","lightblue")
 
 }
 function draw() {
     background(0,150,255);
 textAlign(CENTER,CENTER)
 textSize(30)
+text("gUESS THY wOrd!!!",1,1);
 }
