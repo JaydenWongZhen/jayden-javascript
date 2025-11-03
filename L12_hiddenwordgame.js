@@ -10,7 +10,7 @@ ghfgngbyetagain.position(100,100);
 lebuton = createButton("guess")
 lebuton.position(300,100);
 lebuton.size(50,50)
-letbuton.style("color","lightblue")
+letbuton.style("button","lightblue")
 
 }
 function draw() {
