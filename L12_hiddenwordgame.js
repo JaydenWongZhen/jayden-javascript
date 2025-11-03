@@ -19,6 +19,7 @@ lebuton.mousePressed(checkGuess);
 selected = random(todayswordle); 
 selected = selected.toUppercase();
 
+
 function checkGuess() {
  message = "you are right, it is sigma!"
 }
