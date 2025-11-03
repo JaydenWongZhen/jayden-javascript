@@ -6,6 +6,6 @@ function setup() {
     background(0,150,255);
 }
 function draw() {
-ghfgngbyetagain = createInput();
+ghfgngbyetagain = createInput("subscribe");
 ghfgngbyetagain.position(100,100);
 }
