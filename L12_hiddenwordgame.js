@@ -1,5 +1,5 @@
 // write your codes here
-let todayswordle = ["ligma","sixVI"]
+let todayswordle = ["ligma","sixVI","seven"]
 function setup() {
     createCanvas(600,600);
     background(0,150,255);
