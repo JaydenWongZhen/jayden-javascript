@@ -21,9 +21,8 @@ selected = selected.toUppercase();
 generateHints();
 
 function generateHints() {
-}
 hints = selected[0]
-
+}
 function checkGuess() {
  message = "you are right, it is sigma!"
 }
