@@ -19,5 +19,5 @@ textAlign(CENTER,CENTER)
 textSize(30)
 text("gUESS THY wOrd!!!",1,1);
 text("attempts:0",1,1);
-text("hints:s__")
+text("hints:s____",width/2,160)
 }
