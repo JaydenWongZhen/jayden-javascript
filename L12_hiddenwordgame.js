@@ -18,5 +18,5 @@ function draw() {
 textAlign(CENTER,CENTER)
 textSize(30)
 text("gUESS THY wOrd!!!",1,1);
-text("attempts:0")
+text("attempts:0",100,100)
 }
