@@ -25,5 +25,7 @@ textSize(30)
 text("gUESS THY wOrd!!!",width/2,80);
 text("attempts:0",width/2,120);
 text("hints:s____",width/2,160);
-fill("red")
+fill("red");
+textSize(24);
+
 }
