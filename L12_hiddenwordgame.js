@@ -7,4 +7,5 @@ function setup() {
 }
 function draw() {
 ghfgngbyetagain = createInput();
+ghfgngbyetagain
 }
