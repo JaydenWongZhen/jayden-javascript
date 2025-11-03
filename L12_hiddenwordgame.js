@@ -2,6 +2,8 @@
 let message;
 let lebuton;
 let ghfgngbyetagain;
+let selected;
+
 let todayswordle = ["ligma","balls","sigma"]
 function setup() {
     createCanvas(600,600);
