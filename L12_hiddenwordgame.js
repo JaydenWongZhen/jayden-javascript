@@ -7,5 +7,5 @@ function setup() {
 }
 function draw() {
 ghfgngbyetagain = createInput();
-ghfgngbyetagain
+ghfgngbyetagain.position(100,100)
 }
