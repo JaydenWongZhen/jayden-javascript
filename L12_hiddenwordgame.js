@@ -15,4 +15,5 @@ lebuton.size(50,50)
 function draw() {
     background(0,150,255);
 textAlign(CENTER,CENTER)
+textSize(30)
 }
