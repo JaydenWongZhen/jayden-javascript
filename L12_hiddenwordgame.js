@@ -27,5 +27,5 @@ text("attempts:0",width/2,120);
 text("hints:s____",width/2,160);
 fill("red");
 textSize(24);
-text(message)
+text(message,width/2,height+2)
 }
