@@ -14,7 +14,7 @@ lebuton.style("background-color","blue");
 lebuton.mousePressed(checkGuess);
 
 function checkGuess() {
-    
+    message = ""
 }
 
 }
