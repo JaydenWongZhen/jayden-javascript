@@ -1,2 +1,4 @@
 // write your codes here
-functip
+function setup() {
+    
+}
