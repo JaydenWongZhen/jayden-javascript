@@ -17,7 +17,7 @@ function draw() {
     background(0,150,255);
 textAlign(CENTER,CENTER)
 textSize(30)
-text("gUESS THY wOrd!!!",widt,80);
-text("attempts:0",1,120);
+text("gUESS THY wOrd!!!",width/2,80);
+text("attempts:0",width/2,120);
 text("hints:s____",width/2,160);
 }
