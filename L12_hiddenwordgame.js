@@ -1,4 +1,5 @@
 // write your codes here
+let lebuton;
 let ghfgngbyetagain;
 let todayswordle = ["ligma","balls","sigma"]
 function setup() {
