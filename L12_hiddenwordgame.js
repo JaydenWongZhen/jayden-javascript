@@ -21,7 +21,7 @@ selected = selected.toUppercase();
 generateHints();
 
 function generateHints() {
-hints = selected[0] + " " + "_".repeat(selected.length-2)
+hints = selected[0] + " " + "_".repeat(selected.length-1);
 }
 function checkGuess() {
  message = "you are right, it is sigma!"
