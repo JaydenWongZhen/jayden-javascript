@@ -16,6 +16,7 @@ lebuton.position(300,300);
 lebuton.size(50,50)
 lebuton.style("background-color","blue");
 lebuton.mousePressed(checkGuess);
+
 selected = random(todayswordle); 
 selected = selected.toUpperCase();
 generateHints();
@@ -24,9 +25,21 @@ function generateHints() {
 hints = selected[0] + " " + "_".repeat(selected.length-1);
 }
 function checkGuess() {
- message = "you are right, it is sigma!"
+    let input = ghfgngbyetagain.value().toUpperCase();
+    if (input === selected){
+ message = "you are right, it is " + selected
+    }
+    else {
+        let foundletters = "";
+       for (let pp=0; pp < selected.length; pp++) {
+        if (selected[pp] === input[pp] ) {
+            foundletters = foundletters + selected[pp] + "";
+        }
+        }
+        message = "wrong idiot but correct letters are: " + foundletters;
+    
 }
-
+}
 }
 function draw() {
     background(0,150,255);
@@ -35,7 +48,7 @@ textSize(30)
 fill("black");
 text("gUESS THY wOrd!!!",width/2,80);
 text("attempts:0",width/2,120);
-text("hints:s____",width/2,160);
+text("hints:"+hints,width/2,160);
 fill("red");
 textSize(24);
 text(message,width/2,height/2+100);
